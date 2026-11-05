@@ -127,6 +127,25 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3
 Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
 
+Package: com.binglan.kongzhidiy
+Architecture: iphoneos-arm64e
+Version: 2.3.6-end
+Section: Tweaks
+Maintainer: binglan
+Installed-Size: 8024
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64e.deb
+Size: 3733312
+MD5sum: 9a9ea119340306a8ec9453a3b5a204d6
+SHA1: 374e04bf2090e35f87f2093541f0a29080e93e5e
+SHA256: 96766819bf156c9a5fed8412c60647ffb935602e342df81b9c8728f6df57bccb
+SHA512: 6ba4d64339aacaca768c5ce98f059307e350428c453ce02aee1db72a3ec9900618bbc7748c199f172bd547420ba00458eb5feb962435f5c5b5f32aaed70084cb
+Description: 控制中心中心美化？
+Name: CCPrimeX
+Author: binglan
+icon: https://huayuarc.github.io/icon/binglanKongzhi.png
+
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
 Version: 2.9.2
