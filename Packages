@@ -1624,6 +1624,26 @@ X-Drawer-70: app-landscape.native-fullscreen.restore-display.drawer-return.defer
 X-Drawer-71: mirrored-inner-corners.palette.gradient.background-alpha.icon-shadow.video-canvas.1
 X-Drawer-72: legacy-controls-retired.no-hidden-hit-targets.arc-drawer-preserved.1
 
+Package: com.tsangbaby.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.8
+Section: 工具
+Maintainer: Tsangbaby
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: debs/com.tsangbaby.kayoko_4.8_iphoneos-arm64e.deb
+Size: 670848
+MD5sum: b5b42792fdb59a7eb302d62b0f5fd100
+SHA1: 7bb6b4bf05e30816c02b57e8ff980905fbf8a95a
+SHA256: 5369546bbdab0f4ed2e3eb7e03bd828fed26bc9da052fd8cd06b52753477f744
+SHA512: f3a99ad0d9b31ff1f06587680f3feaec1b64e6f8b6ebc4429621a671872b57bd17e7cf9d09f3db94d213a2b7688c7e34780bfc1f57ad7798cdd001e652ad003f
+Description: Kayoko 剪切板，Tsangbaby 基于 mlgm 版进行二次修改
+Name: Kayoko
+Author: Tsangbaby
+Icon: https://github.com/Tsangbaby/Kayoko/blob/main/Icon/kayoko.png
+
 Package: com.wcliquidglass.free
 Architecture: iphoneos-arm64e
 Version: 2.0.3
@@ -1693,6 +1713,64 @@ SHA512: 190fe75ead5662cfe5afd520429930d399b84bca7104424a4bf171a4f62fbccac96425cf
 Description: wkk 卖 20 的液态弹窗，只去授权，安不安全自测
 Name: GlassSuiteX（免授权）
 Author: wkk
+
+Package: com.wkk.installedpackages
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Priority: optional
+Section: 工具
+Maintainer: wkk
+Installed-Size: 912
+Depends: firmware (>= 15.0)
+Filename: debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64.deb
+Size: 431928
+MD5sum: a8375463f23edef27aa6989f592d963b
+SHA1: ba9bd4e2cbc28aad8ab40cf9d7934c84f947d9d7
+SHA256: 9a90461dfa409e3e4b815bb0522799497c984d33be46c68cec8086f3b38dc4f2
+SHA512: 769472f31ba3564e7756f158b8f0b59e86872a12a5c35e67773ff0aaa47b626987a268bf8b1537415345eeebb78b7f4bd51fb5d9d2fb36653f753d15b6a04e2f
+Homepage: https://github.com/roothide/Sileo-roothide
+Description: 是否受够了进入Sileo时卸载已安装插件慢如蜗牛般的速度？这是一款独立的越狱插件包管理器，用于快速查看和卸载本机已安装的插件包。
+ 安装后会在桌面显示应用图标。
+Tag: purpose::application, compatible_min::ios15
+Name: InstalledPackages（wkk）
+Author: wkk
+Icon: file:///Applications/InstalledPackages.app/icon_large.png
+
+Package: com.wkk.keyboardx
+Architecture: iphoneos-arm64
+Version: 1.0-6
+Section: 手势键盘
+Maintainer: wkk
+Installed-Size: 516
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64.deb
+Size: 64140
+MD5sum: 084f96a4782ebf20af5c8626305dc668
+SHA1: 1d5d27542fbb85243d027cca91a76f67b8a42814
+SHA256: 6df3b0fadb914ae7a89f2e4bbb275ce8163fbdaed20c7c0e0b12f859e5eb2ac4
+SHA512: 1399561f87642a8fed6b629814c74a8da13fc5ac2d551933077e20058a1edca2730e807e0391bcdbbce4046b1d9561f0dac97b9bbed9450e963b56c52fa1226e
+Description: 键盘调整。
+Name: keyboardX（wkk）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.keyboardx
+Architecture: iphoneos-arm64
+Version: 1.1-6
+Section: 手势键盘
+Maintainer: wkk
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.wkk.keyboardx_1.1-6_iphoneos-arm64.deb
+Size: 80056
+MD5sum: 7f08c48602b60c8473c738247fe71bd2
+SHA1: afc77b3387c645ed2352921f1f4eb70a8138fe31
+SHA256: c1dbb513eae9695fc79f064df00bdfc7fc9963502f09bbff728b841a866230e9
+SHA512: e6ef0777e98829991182f50eb7248c3b8e978a9cf040c1eb158572f1e020265217030bd61717ec2a59f94b4e8066fcee2fac323d434e5c258aa86f980fe6e76a
+Description: 键盘调整。
+Name: KeyboardX（wkk）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.sileosourcesearch
 Architecture: iphoneos-arm64e
