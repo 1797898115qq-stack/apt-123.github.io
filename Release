@@ -1,0 +1,16 @@
+Origin: 
+Label: 
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 
+Support: https://1797898115qq-stack.github.io/apt-123.github.io/
+Icon: https://1797898115qq-stack.github.io/apt-123.github.io/CydiaIcon.png
+MD5Sum:
+ 3af7f4f5f5749b24dad0ed509c71aaf0  2023 Packages
+ 0a1333e7ad8aa10b35edd875eda04731  931 Packages.gz
+SHA256:
+ 24759a7be24145d023c3b85379d5388cc7b77a0824b402b7caf5bae3f612c746  2023 Packages
+ a9c97322c9715af549994b8414add958918d2303f98a35804e01b3f95e0ab327  931 Packages.gz
