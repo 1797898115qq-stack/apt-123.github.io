@@ -164,6 +164,24 @@ Description: 液态玻璃
 Name: 88液态玻璃插件 1.3.8
 Author: 一刀
 
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 1.3.7
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 4460
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/com.charlieleung.trollopenjb_1.3.7_iphoneos-arm64e.deb
+Size: 1129528
+MD5sum: d6ed9ef0647df220db12759ed16ef4a0
+SHA1: 8811c343acd1c3569de952b5637d96d6cbf7b303
+SHA256: 2fcb1bf419093e6079f8c561ae58e1dd80853d5ae5114ad7e34a093221332d60
+SHA512: af38dbd3e776d5824edabf0b6cd4ebd8e9d2566ff1061655c8f2a53bc59921bcab2fe019dee2b6ef528f6bfebec4ded37b012f927692bbff72983449ef471eaf
+Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开版，无后续更新，不需要反馈 bug。QQ 群：1094778353，后续付费更新联系群主或群管理。小黑子闭嘴吧，看看什么是最强分屏！
+Name: TrollOpen
+Author: Charlie Leung
+
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
 Version: 2.9.2
