@@ -768,6 +768,25 @@ X-Drawer-70: app-landscape.native-fullscreen.restore-display.drawer-return.defer
 X-Drawer-71: mirrored-inner-corners.palette.gradient.background-alpha.icon-shadow.video-canvas.1
 X-Drawer-72: legacy-controls-retired.no-hidden-hit-targets.arc-drawer-preserved.1
 
+Package: com.wkk.aemulo
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Section: 应用程序
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/com.wkk.aemulo_1.2.5_iphoneos-arm64e.deb
+Size: 630160
+MD5sum: 2840c014e2a328ce45eecd44a059100e
+SHA1: abdae64381450ec5bd5c2891ed64e4521b3e829c
+SHA256: e69aa97b053a21e0e37dc91694b5ece476f5ad0af0c05a1414d63991d46b475e
+SHA512: e168cd3e085b8352b5d9aebf89b292902cd45f35cc361fea343782beab032596a3ebe11ca5cff4527453c778fe91d4872230753e96c99f97bace541264dce028
+Description: NFC付费App纯净砸壳。
+Name: Aemulo NFC模拟
+Author: Amy While <support@anamy.gay>
+Icon: https://s1.imagehub.cc/images/2026/01/04/7c96709445ff5c46b3eec04f7863b889.png
+
 Package: com.iosrxwy.fanqiehehe
 Architecture: iphoneos-arm64
 Version: 0.1-1
