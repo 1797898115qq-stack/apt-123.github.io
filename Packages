@@ -16,6 +16,44 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.crctdd.memtrim
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/MemTrim-0.0.3-iphoneos-arm64.deb
+Size: 69404
+MD5sum: a3434f345f6e61ec137f7b4f28a68a1b
+SHA1: c4a27f61211da6f09597b4fec94e05c0ad6638de
+SHA256: d662888ec2903588ee7f4cbb3f4581e5ebaae3a87ce2931aedf46bb551c1136c
+SHA512: a73e3eabeac3872d69a020bb397f9933362272d12665203f3a6d462bea98d972027ed25fd41bb2a6740c369686be360f2e9b9a7a40a212f417d921a8f7324210
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Name: MemTrim
+Author: crctdd
+icon: https://huayuarc.github.io/icon/memtrim.png
+
+Package: com.crctdd.memtrim
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/MemTrim-0.0.3-iphoneos-arm64e.deb
+Size: 54516
+MD5sum: 98c93b8f7480366ea2e9b4bfc334fdae
+SHA1: 6edf75e16c44e781456047b0435b5dfc2f862019
+SHA256: d5f16776c58e49cbdca0f3c4077b262be39e0ad5f6b4cb0854ac3f44f2438106
+SHA512: d45b0d8e037f2d1371866597d9818c66bd7c2c5e7c27f1a5fe04211db4c68e7d12f2a2e2bc0b0802adb8732bd7c651c2a247d2f2698b6d7716d74cccead51677
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Name: MemTrim
+Author: crctdd
+icon: https://huayuarc.github.io/icon/memtrim.png
+
 Package: cn.zqbb.cocoatop64.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 3.2.0
@@ -786,6 +824,44 @@ Description: NFC付费App纯净砸壳。
 Name: Aemulo NFC模拟
 Author: Amy While <support@anamy.gay>
 Icon: https://s1.imagehub.cc/images/2026/01/04/7c96709445ff5c46b3eec04f7863b889.png
+
+Package: com.wkk.sileosourcesearch
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 108
+Depends: org.coolstar.sileo
+Filename: debs/com.wkk.sileosourcesearch_1.0-2_iphoneos-arm64e.deb
+Size: 17600
+MD5sum: ab16385e174ac8582d8ec35ee20f300c
+SHA1: c654c4ee5ae11a26ea5e8c4602645e1ddf4ceedb
+SHA256: c7f553d10e98a7a52f23c2cf8d307ba0c322708d31fd2c41ef437e28102c9c2d
+SHA512: 5f362ff73bfeac215099ddfe6f31221525b21b908b18bb55f4189f9b4ef243e2a4aaf77df77902d4c4833cc40edd69df897797d9bd233ecb77e3d31b58f6a824
+Description: 为 Sileo 软件源页面增加源名称和网址模糊搜索，点击搜索结果可直接进入对应软件源；同时在软件源左滑菜单中增加置顶和取消置顶，按置顶先后顺序排列，最多可置顶 5 个软件源。
+Name: Sileo 源搜索
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.rein.keygen
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Utilities
+Maintainer: Rein
+Installed-Size: 232
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: debs/动态岛激活码生成器.deb
+Size: 100734
+MD5sum: 83a1bb5f77342badeb50dadd63c8b70b
+SHA1: 55f706669749d9190823cd9de4526d5b98649a71
+SHA256: b90857a8591070caf98414b082b4148e65043ed951d0b731ec791c0ff6d11246
+SHA512: bccd8ca2544f597f7888f09ee29ab528daa1036c2b8fc747064bddbe8e9be642d522e1900ef59aaa30d7ca3bccb411858976b3a86d91b1060458d98dc7ff45af
+Description: ios16dao 激活码生成器（离线 App 版）。
+ 输入 12 位设备码，生成 18 位激活码，支持一键复制；算法与页面完全内置，
+ 不联网、不注入任何进程。
+Name: Rein 激活码生成器
+Author: Rein
 
 Package: com.iosrxwy.fanqiehehe
 Architecture: iphoneos-arm64
