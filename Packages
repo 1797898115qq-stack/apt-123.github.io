@@ -16,6 +16,23 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: axssb666
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 微信插件
+Maintainer: JJ
+Installed-Size: 296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/axssb666_1.0.0_iphoneos-arm64.deb
+Size: 40690
+MD5sum: 1fec19e11cec7ac8e1211e8d0d2a2f90
+SHA1: 0627c90e13be282a80f745d2309f458ea57819c1
+SHA256: 493879b30298a28541b9b6d2b9eee2b8838a7f2ee4ef7097787c8c91fe3dc232
+SHA512: 5dff44c5f7d5f2e937d6e15c5e631be665b12859626033395e613120959f58417dc302ca0e009504c6d63e57ea1e1b0474f1efda2cdb4f77c7271223b9ba03cd
+Description: A狗微信全局圆角破解组件 安装此组件即可解锁授权 需要配合全局圆角主插件使用
+Name: 微信全局圆角（免授权）
+Author: JJ
+
 Package: byg.iosios.net.autotouch
 Architecture: iphoneos-arm64e
 Version: 8.0.11
@@ -53,6 +70,43 @@ Name: 芒果分屏1.0-Beta4-2（免授权）
 Author: go
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: cn.octoforce.squidextender.roothide
+Architecture: iphoneos-arm64e
+Version: 3.7.4+offline.1
+Section: 手势键盘
+Maintainer: SquidForce, Backup
+Installed-Size: 10254
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
+Conflicts: cn.octoforce.squidextender, com.squidforce.squidextender
+Filename: debs/cn.octoforce.squidextender.roothide_3.7.4+offline.1_iphoneos-arm64e.deb
+Size: 2306812
+MD5sum: c0538acf10927677f2cc2d48ca02ac97
+SHA1: 9e35a4fc272e42d2ba6ff17772e2143e9fc02a8b
+SHA256: 6eb6ce1c198d556894a19cea02977269a4bdeb6bc35b9167c11640e828134599
+SHA512: 60dc5fe8c39740b1b6127a9736d4888f1cbb64d5bef4523ab17b84f07afc5c77c4fc87dd75896daa3e17cab7f07bc65f73f3c69b25c636f753a78cd15b5290bc
+Description: Local device-bound license recovery for SquidExtender 3.7.4. No activation server required. Device validation pending.
+Name: 乌贼键盘隐根（免授权）
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 3.7.4-2
+Section: 手势键盘
+Maintainer: SquidForce, Backup
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: debs/cn.octoforce.squidextender_3.7.4-2_iphoneos-arm64.deb
+Size: 2622882
+MD5sum: 966635cde69eafc3fa151aab3dcdf1ad
+SHA1: 2ecc398fa4808de6a23491e8126f1e49f1cab286
+SHA256: a6cd045958efc12418df9ec1a5b009e1444839f69713698bb65a754ac16d9c3b
+SHA512: 49f572a1dd9887183a76a980e8515189a996f25e3647ad49367a5a5d1812cc9496bb7c62712899b1ed4e9337d92131c4e476acf37f41712716283cccfac51cd5
+Description: SquidExtender + PCrack 离线授权（本地生成合法授权，不改二进制）
+Name: 乌贼键盘无根（免授权）
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.zqbb.cocoatop64.inject.roothide
 Architecture: iphoneos-arm64e
@@ -269,6 +323,24 @@ Author: liuf
 Icon: https://axs66.github.io/repo/icon/lddgifbg.png
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/lddgifbg/js.json
 
+Package: com.Axs.yuanjiao
+Architecture: iphoneos-arm64e
+Version: 1.8.6
+Section: 微信插件
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Size: 634908
+MD5sum: bf9bed1ad5d4b4e6be4a36259084b00c
+SHA1: af49e9e108361c8f1d7eb2c8d4772b2058b20f61
+SHA256: 08363d1172528f11b9050d61492715b0878d1f3c6578abc542101b5587345330
+SHA512: 0df1377d94ea459c80a413e7c0b69a3a903431d4d33fac43133f777ddcc52ff279d513a288c5c5f1878cb171a93edea20f71913e2ec70aae8fd8fd0c3e7a8935
+Description: A狗的微信全局圆角插件原版 1.8.6-END 下载源里全局圆角（免授权）插件即可解锁授权
+Name: 微信全局圆角
+Author: A
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+
 Package: com.binglan.dynamicfx
 Architecture: iphoneos-arm64
 Version: 1.0.7-1
@@ -371,6 +443,24 @@ SHA512: 3604ee723dcf4d6d986edecbba2a3a5a4ca480da901f20baeecd41bbf2ea2aa009975b4d
 Description: 微信液态玻璃（免授权）。内置 ECDSA 公钥离线授权校验，无联网端点，仅自用。
 Name: 玻璃液态（免授权）
 Author: personal
+
+Package: com.bvm.wuzeililiang
+Architecture: iphoneos-arm64e
+Version: 1.0.1-1
+Section: 工具
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.bvm.wuzeililiang_1.0.1-1_iphoneos-arm64e.deb
+Size: 38092
+MD5sum: edbdb03513b16f3880b7acd7cd0554d9
+SHA1: c5f46ce1816793ee2fc7ca995cb98b92e6e61289
+SHA256: 8026c0829fe9c7b5febe958a962814756ff9bd35ac0c2ff6b706e8e210400960
+SHA512: 8cb70fe06c81d38fef4e4720ea7b23ea89e3d61df62086d2315910d97e3dc4caff785ad454f237665487286a1a838299b8bfcb0e8252932b112541969568b90b
+Description: 乌贼三件套通杀插件，内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）
+Name: 乌贼本地离线授权
+Author: BVN
+icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
 
 Package: com.charlieleung.liquidify.roothide
 Architecture: iphoneos-arm64e
@@ -727,6 +817,22 @@ SHA512: f8ab5e0071e361015c32eba45472696e75d00e31a3ce830304fcae56d23219a6df5f46bb
 Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Enabled by default!
 Name: lockdown
 Author: roothide
+
+Package: com.secretfriend.wechat
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 微信插件
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.secretfriend.wechat_1.0-1_iphoneos-arm64.deb
+Size: 125462
+MD5sum: c92698491c98dc5e25d63a077dec5512
+SHA1: 7eff8d867bec1ac6119c4e77bfd9a7bac08a0a35
+SHA256: 7ffc60e5e172b9bcfa60e856ee1550090f872f87f6c9b7c9fcafef696522e482
+SHA512: 29ca39e99854f7552c5e354d795e6014b28b3b25a44c3fc1349f184098aa9e7c99946c9b3842518fb0534057a40de61de5ad87b3a0f84138058d1118d035d394
+Description: 微信密友插件
+Name: 微信密友
+Author: personal
 
 Package: com.sini921.ccborder
 Architecture: iphoneos-arm64e
@@ -1317,6 +1423,30 @@ Description: Experimental live app windows with Home Screen icon gestures and ba
 Name: 曾牛-分屏🐮
 Icon: https://ys8smjzty4-dot.github.io/ZengNiupackages/depictions/com.zengniu.splitview/icon.png
 Author: ZengNiu
+
+Package: netskao.wechatpurifications
+Architecture: iphoneos-arm64e
+Version: 2026.04
+Section: 微信插件
+Maintainer: BigBoss
+Installed-Size: 23256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification
+Filename: debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
+Size: 7996412
+MD5sum: 0c1d1ae9cddaefd45b517ed4c8737468
+SHA1: 4a3f0c4477120e4123b8afa510b9e2c7399d27e7
+SHA256: 10a8ead9bf54dff054d00304f233037f2bb1c79ee01b77cab267a2541a397c76
+SHA512: dcf344e58c5753fa569167113901f12a82001a4f2fafd6429de6540426b0cd1fb92bcf320d7ba5439e645656269f1bf68670c6209d274236e3f06923c916c168
+Description: 微信净化 2026.04 版本
+ * 还原聊天本质，干净的微信给你
+ * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
+ * 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解
+Author: Netskao
+Name: 微信净化 2026.04
+icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
 
 Package: com.iosrxwy.fanqiehehe
 Architecture: iphoneos-arm64
