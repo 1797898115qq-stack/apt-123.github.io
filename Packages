@@ -1970,6 +1970,38 @@ Description: 58微信液态玻璃（免授权）。微信界面液态玻璃风�
 Name: 58微信液态玻璃（免授权）
 Author: TLzypjy
 
+Package: com.wcneo.free
+Architecture: iphoneos-arm64
+Version: 1.0.8-3
+Section: 微信插件
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.wcneo.free_1.0.8-3_iphoneos-arm64.deb
+Size: 2906668
+MD5sum: d46c034f05628c003c9406741fef7a07
+SHA1: 7148f96d45e0ee70bd6a4cc657a93012bd78b25b
+SHA256: 0a3835b016ee58d275a1a732e23e5cdaa8f97a6dd493eeec335f59ff11306a63
+SHA512: 5d97ce205eab47a071e048e9224bf2551fec890152fdd712afa0963a98b5d123f24aa2853e92edf0b9f407808a463a002290c8f4e6326cb2148a5a074cf69e69
+Description: WeChatNeo 微信美化全家桶（免授权）。主面板/截图工具/手势截图/头像自定义/主题色等。内置授权服务器与更新通道，仅自用。
+Name: WeChatNeo（免授权）
+Author: personal
+
+Package: com.wcneo.free
+Architecture: iphoneos-arm64
+Version: 1.1.2-3
+Section: 微信插件
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.wcneo.free_1.1.2-3_iphoneos-arm64.deb
+Size: 4152168
+MD5sum: 57feedd2f68dfe36450422e71b0cbbbe
+SHA1: 78027d609b3ca669a58d0dce2dd57a4d69a3c093
+SHA256: db5c8ee1dd0182730cdd690aae8c14bc2b8159e16df77ef1a0b1d89c8724269e
+SHA512: 69405e6cb83beb03ead3c0794694488a8d5a08c34211044a726d9ccc433e6c0f07defc4f22fd48883c5840fdebe9aa65e092ed3fba3f922edd921052ecc37381
+Description: WeChatNeo 微信美化全家桶（免授权）。主面板/截图工具/手势截图/头像自定义/主题色等。
+Name: WeChatNeo（免授权）
+Author: personal
+
 Package: com.wechat.liquidglass
 Architecture: iphoneos-arm64e
 Version: 3.8.0-4
@@ -2189,6 +2221,42 @@ Name: SystemX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.wechatx
+Architecture: iphoneos-arm64
+Version: 2.3-2
+Section: 微信插件
+Maintainer: wkk
+Installed-Size: 8376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.wechatx_2.3-2_iphoneos-arm64.deb
+Size: 2974286
+MD5sum: 730d38bfc5beef26b708b5e7d4921b44
+SHA1: 08398883b4b85476e041c33d6209336cec7df53c
+SHA256: bad828aac1303d8a376657c3727f1c53831eb19f86ed1970cff38cc87d5dcdd4
+SHA512: 86dd5ed59fca99c752f85c98977f957d021e86aa9e4ac4e2ed788448340041a3a3b80d64c81270ee1657bb20fa98f8bc25a3ef2cb9a4eea8f8f2f7e7323e443a
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Name: WeChatX（wkk）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wechatx
+Architecture: iphoneos-arm64
+Version: 2.4-3
+Section: 微信插件
+Maintainer: wkk
+Installed-Size: 9604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.wkk.wechatx_2.4.3_iphoneos-arm64.deb
+Size: 3763264
+MD5sum: 565492cc65c00486b7504e8c35961385
+SHA1: 7ed39ffd1bc7b057e78130d91d698770040f0fdb
+SHA256: d218eac5027ed2b74f4c89c536e3c7017416c850942a830151b8e9ac041be21d
+SHA512: 533eb1dde873f447b4551ed245b9443538b31bf8efcebdfe7c108a31b924faf2a6fe58e3c8c8b6125d9c8f0154fd83858848edb64a4961bae9b005078b665933
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，功能180+，自定义程度拉满的WeChat 插件，实用功能直接拉满占比百分之95，任何功能都可以提/定制皆可，单独授权50，进付费群依然可用。如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Name: WeChatX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
 Package: com.wxhbts.powercuff.roothide
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -2229,6 +2297,23 @@ Description: 仅对桌面长按菜单、锁屏播放器和锁屏通知应用 iOS
 Tag: role::enduser, purpose::extension, cydia::requires-respring
 Name: 文字深浅切换
 Author: 夜辰
+
+Package: com.ylr.wcfloatsplit
+Architecture: iphoneos-arm64
+Version: 3.0-5
+Section: 微信插件
+Maintainer: ylr
+Installed-Size: 6236
+Depends: firmware (>= 15.0)
+Filename: debs/com.ylr.wcfloatsplit_3.0-5_iphoneos-arm64.deb
+Size: 2346244
+MD5sum: a3fba771a5e939dd7b07e692fb9ca49e
+SHA1: 4f6037bdde48a5e6fce2b5bea9cc701642e933bc
+SHA256: 7a9967f0b94ba77bb67a94fc4ffe890da901560c99395b80bade24237b01f563
+SHA512: f6a690ae5adb4706c84df83b96a100c10f43cfb168f786ecf6c748376a6638e27c7ac678ad98302697603c7b786884437331976ea71193f6ef86335cf3a52e3e
+Description: WeChatOrbit
+Name: WeChatOrbit（免授权）
+Author: ylr
 
 Package: com.yourepo.axs.openmask
 Architecture: iphoneos-arm64e
