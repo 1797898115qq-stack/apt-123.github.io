@@ -73,6 +73,38 @@ Author: zqbb
 Name: Hello 3Q
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
+Package: com.000.themelab.old
+Architecture: iphoneos-arm64e
+Version: 1.7.4
+Section: 微信插件
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.000.themelab.old_1.7.4_iphoneos-arm64e.deb
+Size: 1933204
+MD5sum: 1539cd17166ba1378bc5a62f068a58a7
+SHA1: 2c01978ed0785e1afdfa94578b496371118d6c2e
+SHA256: dbc7f97ed30aa6b269a461cef39886ec3897b02768582d4e94ff96590da8de4f
+SHA512: 44af0d87f73f6629d172e3451a919d6defc6a1ab13e4f00e7424a8541f72e37bd3fcf8f5194d3646277ebf65ec41d452f3b19b2a3619238c14249af042583419
+Description: 000ThemeLab 主题实验室插件
+Name: 000ThemeLab（免授权）
+Author: personal
+
+Package: com.000.themelab
+Architecture: iphoneos-arm64e
+Version: 1.7.5-2
+Section: 微信插件
+Maintainer: personal
+Depends: mobilesubstrate | org.coolstar.libhooker | org.coolstar.ellekit, firmware (>= 14.0)
+Filename: debs/com.000.themelab_1.7.5-2_iphoneos-arm64e.deb
+Size: 4537690
+MD5sum: 5d2aa3533117b5b47531290429c2c31a
+SHA1: 7f7ef60cfc0898b1b1f3e53fb584e11270b66d58
+SHA256: 18ed579882a96a896d14c055866f2e4e48e23fdcd317431e617081dd6bd81d8f
+SHA512: 9270124435175666336a3e2a641a826760ddf0e5b2b9b48312060d55ec8fc63c552cbed933683c4221162539309e04161cdb85e3a0d605277795e920f3a215a9
+Description: 000ThemeLab 主题实验室插件
+Name: 000ThemeLab（免授权）
+Author: personal
+
 Package: com.25mao.leftpan
 Architecture: iphoneos-arm64e
 Version: 2.0-1
