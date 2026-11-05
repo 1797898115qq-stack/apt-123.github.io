@@ -974,26 +974,6 @@ Name: 曾牛-分屏🐮
 Icon: https://ys8smjzty4-dot.github.io/ZengNiupackages/depictions/com.zengniu.splitview/icon.png
 Author: ZengNiu
 
-Package: com.rein.keygen
-Architecture: iphoneos-arm64e
-Version: 1.0.6
-Section: Utilities
-Maintainer: Rein
-Installed-Size: 232
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 15.0)
-Filename: debs/动态岛激活码生成器.deb
-Size: 100734
-MD5sum: 83a1bb5f77342badeb50dadd63c8b70b
-SHA1: 55f706669749d9190823cd9de4526d5b98649a71
-SHA256: b90857a8591070caf98414b082b4148e65043ed951d0b731ec791c0ff6d11246
-SHA512: bccd8ca2544f597f7888f09ee29ab528daa1036c2b8fc747064bddbe8e9be642d522e1900ef59aaa30d7ca3bccb411858976b3a86d91b1060458d98dc7ff45af
-Description: ios16dao 激活码生成器（离线 App 版）。
- 输入 12 位设备码，生成 18 位激活码，支持一键复制；算法与页面完全内置，
- 不联网、不注入任何进程。
-Name: Rein 激活码生成器
-Author: Rein
-
 Package: com.iosrxwy.fanqiehehe
 Architecture: iphoneos-arm64
 Version: 0.1-1
