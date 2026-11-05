@@ -1257,6 +1257,25 @@ Description: Multiple containers for your applications!
 Name: Crane
 Author: opa334
 
+Package: com.qimiao.WCRefine
+Architecture: iphoneos-arm64
+Version: 2.1-5beta1
+Priority: optional
+Section: 微信插件
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/com.qimiao.WCRefine_2.1-5beta1_iphoneos-arm64.deb
+Size: 9312472
+MD5sum: 9b93b43f3ead7c8ac1fde8597141c4f1
+SHA1: e8c920da029f630a8b65ad4ce33bd8377922f727
+SHA256: 67152ee850fc4fdf609b84adfdc53187f9d7e1e60137c37a3200f3ab34f37e65
+SHA512: ca8b87f4a5288c2069f2a0daccfa21096de80a6b0ef16ab89f815a7a3e6af6b3b649723c3291287c43dd9dbdfd4cda43317cba77f21b3418ba2f1dc4ebf97124
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Name: WCRefine内部2.1-5beta1（免授权）
+Author: 热心网友
+dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+
 Package: com.rain.dock
 Architecture: iphoneos-arm64
 Version: 3.6.2-1
