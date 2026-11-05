@@ -1,16 +1,16 @@
-Origin: 
-Label: 
+Origin: 牛马源
+Label: 牛马源
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 
+Description: 牛马源
 Support: https://1797898115qq-stack.github.io/apt-123.github.io/
 Icon: https://1797898115qq-stack.github.io/apt-123.github.io/CydiaIcon.png
 MD5Sum:
  3af7f4f5f5749b24dad0ed509c71aaf0  2023 Packages
- af2a76bb495e4b2cdf0ea773eea6abd5  931 Packages.gz
+ c03ef31f3b9f9ddd57f403cbbd65b149  931 Packages.gz
 SHA256:
  24759a7be24145d023c3b85379d5388cc7b77a0824b402b7caf5bae3f612c746  2023 Packages
- d48d41491fea0d915a63ad5777b3c0ebaa3509ee1ab4842aae1deffe8976b667  931 Packages.gz
+ 9ec7d21c5ccd8fcec9bc163ce20b33d71f12eda8826e0d2d3b2c2f69d02801c2  931 Packages.gz
