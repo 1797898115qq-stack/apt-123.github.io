@@ -1951,6 +1951,23 @@ Description: 58微信液态玻璃（免授权）。微信界面液态玻璃风�
 Name: 58微信液态玻璃（免授权）
 Author: TLzypjy
 
+Package: com.wechat.liquidglass
+Architecture: iphoneos-arm64e
+Version: 3.8.0-4
+Section: Tweaks
+Maintainer: WeChatLiquidGlass
+Installed-Size: 90756
+Depends: mobilesubstrate
+Filename: debs/com.wechat.liquidglass_3.8.0_iphoneos-arm64e.deb
+Size: 30425268
+MD5sum: 8e6309187af6f05d655926f1f9ea0076
+SHA1: 0a8755c75dd6c59bc5ca09614cc4be5755aa4fc0
+SHA256: 0b070930cf7b10ca6d0c07b3ffaef8f22e189a29c235829f848270a0df30b592
+SHA512: f31466b197bddd88abbd93860376c38f2b0f7add999eadfd52fe99bd3bc1ff6c117c0b0b561a576443c456f8ce81036a402d84a719de9e1fa844df1ad19ba470
+Description: Bring iOS 26 Liquid Glass styling and quality-of-life tweaks to WeChat.
+Name: WCGlass
+Author: Ashram
+
 Package: com.wkk.aemulo
 Architecture: iphoneos-arm64e
 Version: 1.2.5
