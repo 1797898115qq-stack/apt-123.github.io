@@ -16,6 +16,25 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: byg.iosios.net.autotouch
+Architecture: iphoneos-arm64e
+Version: 8.0.11
+Section: 杂七杂八
+Maintainer: 搬运工
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: debs/byg.iosios.net.autotouch_8.0.11_iphoneos-arm64e.deb
+Size: 23805646
+MD5sum: b48aa7ae9cd55698e001d80d702fb48d
+SHA1: 274d227c23b815dc90f1a4c62c40373d2b5be568
+SHA256: 7d8adc79ce59f35cd3792ac15eca87b17d1ce0d3215915fba7711a6abc702333
+SHA512: c200079fbed7a57f4bb1c9c2aaffa2da59adcbc9b7ec881f8914bc9587f2d3a42bca16d10296777bb52a81f3de4a1746db715a68b501e7ba880d56b901f35207
+Description: Record and playback touch operations, play macro scripts automatically.打开闪退的请进系统设置-显示与亮度，关闭粗体显示即可！如果安全模式，缷载还是安全模式，多注销几次即可，本源插件都是源主测试过才上架，放心使用。插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。
+Name: 按键精灵连点器（免授权）
+Author: Kent Krantz
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: cn.zqbb.cocoatop64.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 3.2.0
@@ -155,6 +174,25 @@ Description: Display your touch interactions!
 Name: Touch-Viz
 Author: Lessica <82flex@gmail.com>
 
+Package: com.Axs.kongzhidiy
+Architecture: iphoneos-arm64
+Version: 2.3.3-end
+Section: 控制中心
+Maintainer: binglan
+Installed-Size: 3028
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.Axs.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
+Size: 674340
+MD5sum: 666e7676fdc00eb84385165fde65a776
+SHA1: f9aa43f3a24de302530bd4c9884e117f4216fa25
+SHA256: 6586461cacda4d16afbe9a5fbbcd4ff3ad95bc92bf1aec96d633cf5fd3c5489b
+SHA512: 430ab544d1c31eeeab66ede8db6c127fec690da696cabf04f0f2f24d40ec3eef75013abede72f3f5bfa584d0b3f92681e680d151b51476395b757d459c5b55d4
+Description: 这是一个简单的控制中心美化插件。
+Name: 冰蓝控制中心2.3.3-end（免授权）
+Author: binglan
+Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kongzhidiy/js.json
+
 Package: com.anthopak.appaze3
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -175,6 +213,41 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3
 Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
 
+Package: com.binglan.dynamicfx
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: 系统美化
+Maintainer: 冰蓝
+Installed-Size: 772
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
+Size: 115776
+MD5sum: 0da67c62ffd42d0b476436f7415b419a
+SHA1: 5ebb648d4dd7e0f49e5de4139b97c74268cdd8d2
+SHA256: 61b88f7b7a80a55d778a4fda6ad72d169a9234180531d0d1bc4bc2b0b5d0adb1
+SHA512: 8badedbdce50d358d8ad73dcd08122fbb2749d41d6858fe8041c2ad4784b7f31f9dacc3cd10ac63c4c6e4c992705089341c9e59dff8935d73b6067c85c9fe0b0
+Description: 灵动岛背景？
+Name: 冰蓝灵动岛背景（免授权）
+author: 冰蓝
+
+Package: com.binglan.kongzhidiy
+Architecture: iphoneos-arm64
+Version: 2.3.6-end
+Section: 控制中心
+Maintainer: binglan
+Installed-Size: 8024
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
+Size: 3740156
+MD5sum: d013692bdeedab422b38ad5d1a373149
+SHA1: daef32141d5e97102fdb5d9ffd65a4ad3ef5f756
+SHA256: 0707fdaf56ccdfe284afcfdd5f9bafab6726d0dd1f32bf99a06a3e8b52d2744e
+SHA512: 85d0fce7822d691854685970f2228ba10947c8ec57007eac74a52301be12019bad0563e9877c53b42cbd1e68ab655b7522e85aef5fa6b684cd94b972766d67fb
+Description: 控制中心中心美化？
+Name: 冰蓝控制中心2.3.6-end（免授权）
+Author: binglan
+Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
+
 Package: com.binglan.kongzhidiy
 Architecture: iphoneos-arm64e
 Version: 2.3.6-end
@@ -193,6 +266,39 @@ Description: 控制中心中心美化？
 Name: CCPrimeX
 Author: binglan
 icon: https://huayuarc.github.io/icon/binglanKongzhi.png
+
+Package: com.binglanqjsy.deb
+Architecture: iphoneos-arm64
+Version: 3.0.0
+Section: 系统美化
+Maintainer: 冰蓝
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Filename: debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
+Size: 164700
+MD5sum: 7b8c58cb8a72be2619d24206150ec195
+SHA1: 906f4452fecc7b97c088a4dab5badde54635ae75
+SHA256: c57f554ec6d687d2214fc9b39d52a20aa7be8d9ae2adc58c2f2be6645f6e16ce
+SHA512: c74236393ef3602b1d6b5f32e59007b5140eae3304a61d3d18c2d358c951d8dd5e8fd0c52258796750cf5e6bada229dc207b0605e595e2211dc058667c6b207c
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Name: 冰蓝全局水印套壳（免授权）
+Author: 冰蓝
+
+Package: com.bolilita.free
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: 系统美化
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.bolilita.free_2.0.3_iphoneos-arm64.deb
+Size: 1316724
+MD5sum: e5bcd8b2cd7153c4d411830af5c6af91
+SHA1: 2be47b4876264b709c991b891d6e225afbda6eb1
+SHA256: bf92c950379c32a5b7589210b6f187173efcfd37473a59e724974eb0a05d3880
+SHA512: 3604ee723dcf4d6d986edecbba2a3a5a4ca480da901f20baeecd41bbf2ea2aa009975b4d7713d8212f1a3c27ab54a6031b66ced35c2b37a8ad79264101fe08de
+Description: 微信液态玻璃（免授权）。内置 ECDSA 公钥离线授权校验，无联网端点，仅自用。
+Name: 玻璃液态（免授权）
+Author: personal
 
 Package: com.charlieleung.liquidify.roothide
 Architecture: iphoneos-arm64e
@@ -328,6 +434,23 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
+
+Package: com.liuf.wxyj
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 微信插件
+Maintainer: TLzypjy
+Depends: mobilesubstrate
+Filename: debs/com.liuf.wxyj_1.0_iphoneos-arm64.deb
+Size: 107616
+MD5sum: 192ae59bb7bcfe01ba9e23e952805024
+SHA1: c45b6addbcb3244e22f82218837f8823982dac2d
+SHA256: 707350a2780e2a220f3b5df996e2ced5d8cac9bfbead4af102ceaccf403fff4b
+SHA512: 5d3a2f339a14df7060d92a6e2f0ad254c1dd6b9b0c8eba6a118266f3f052bdc4e92105e2380a7f448bf9323c179d15fda9e4911dbaf59dd975a1a5913b4f513b
+Description: 微信美化插件
+ 德发素材仓 微信美化插件：支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。
+Name: 德发素材仓（免授权）
+Author: 德发
 
 Package: com.mowang.neicunyouhua
 Architecture: iphoneos-arm64
@@ -499,6 +622,40 @@ Name: CozyBadges(roothide)
 Author: NoisyFlake & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cozybadges.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
+
+Package: com.siwenjiajia.tweak.comm
+Architecture: iphoneos-arm64
+Version: 28.35
+Section: 抖音插件
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Conflicts: com.siwenjiajia.tweak.free
+Filename: debs/com.siwenjiajia.tweak.comm_28.35_iphoneos-arm64.deb
+Size: 3587956
+MD5sum: 557cf40277104de011fb729f45380a66
+SHA1: 8f7ed16dc8bb9472035a3f7acadeb17931c3c653
+SHA256: 174c14a2a6b42799a9bcdbe1edb7961d9071e4c649e284d52e5581900b9cfeba
+SHA512: 8ea55710a48653b6e209b47a54895dac54132d02e2adb0dfa7911edb74b6f65e393e7306dc3a97768345fe5515cd356d08c48652669b5d01d2a414ef86f76378
+Description: 抖音优化 交流版 28.35（免授权·完整版）。玻璃拟态、语音朗读、视频统计等，联网功能较多，仅自用。
+Name: 抖音优化（免授权）
+Author: siwenjiajia
+
+Package: com.siwenjiajia.tweak.free
+Architecture: iphoneos-arm64
+Version: 28.17
+Section: 抖音插件
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Conflicts: com.siwenjiajia.tweak.comm
+Filename: debs/com.siwenjiajia.tweak.free_28.17_iphoneos-arm64.deb
+Size: 2894200
+MD5sum: c980747340cf89f3d04cead8f1d00d4e
+SHA1: 850cda4f2c6fadd0aea42e7f80d51991d53f5d69
+SHA256: 429871b1f4d7eed42b38c5e5ea3efc2089dca7d29a1829bdff097702ae4fd598
+SHA512: 755e7eacd4869e579250fec9422eda72d3d001218df7ba8969c5d0d8faeb87ae5c026bdd4d0d36bed8548ddba390f0d5b4b199a242a27bfde92d29da296661d5
+Description: 抖音优化 破解版 28.17（免授权·精简版）。功能较少、联网轻，仅自用。
+Name: 抖音优化（免授权）
+Author: siwenjiajia
 
 Package: com.snapbackup
 Architecture: iphoneos-arm64e
