@@ -91,6 +91,22 @@ Author: personal
 
 Package: com.000.themelab
 Architecture: iphoneos-arm64e
+Version: 1.7.4
+Section: 微信插件
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.000.themelab_1.7.4_iphoneos-arm64e.deb
+Size: 1933200
+MD5sum: fae8399f3245df99aa6e479c3b674763
+SHA1: b194f9ab6eb35dc482454b1102732eac6f227f97
+SHA256: 0e2aabfe17334f8db26a71d83dd2ff3eac7503d348fd71b3c14dc7b08f357cf9
+SHA512: 5c090c27c9976e4c90ea373f0d0bec0d66d8bd0e7213599de3253a6e8c498d415185489a89693924ef8d6bda71468775dd6369961cf1d68eb4e908dc8b5b47c5
+Description: 000ThemeLab 主题实验室插件
+Name: 000ThemeLab（免授权）
+Author: personal
+
+Package: com.000.themelab
+Architecture: iphoneos-arm64e
 Version: 1.7.5-2
 Section: 微信插件
 Maintainer: personal
@@ -799,6 +815,22 @@ X-Drawer-69: remembered-edge.paired-slide.background-rgb.background-only-alpha.1
 X-Drawer-70: app-landscape.native-fullscreen.restore-display.drawer-return.deferred-cancel.1
 X-Drawer-71: mirrored-inner-corners.palette.gradient.background-alpha.icon-shadow.video-canvas.1
 X-Drawer-72: legacy-controls-retired.no-hidden-hit-targets.arc-drawer-preserved.1
+
+Package: com.wcliquidglass.free
+Architecture: iphoneos-arm64e
+Version: 2.0.3
+Section: 微信插件
+Maintainer: TLzypjy
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Filename: debs/com.wcliquidglass.free_2.0.3_iphoneos-arm64e.deb
+Size: 731228
+MD5sum: 65ca2e958bb6ff1f440839fe48634dfa
+SHA1: f35a2baf73b052d224984cf929a668c6c2a3de24
+SHA256: f1375dde9d2b32cbd8a36d3b0c3551bc7ebda14fa90f246eedc554a22e933281
+SHA512: 882bc0a4e11e2731b15a8e6913122af3c840f1951723cbe8a9dbd36a9964944a8094d246c1bf235826189cbc68960d0e04908e2248bcec283ca23ff9d1814bd2
+Description: 58微信液态玻璃（免授权）。微信界面液态玻璃风格美化，rootless 专用。内置本地公钥验签，无联网授权，仅自用。
+Name: 58微信液态玻璃（免授权）
+Author: TLzypjy
 
 Package: com.wkk.aemulo
 Architecture: iphoneos-arm64e
