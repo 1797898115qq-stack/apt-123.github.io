@@ -16,6 +16,63 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: cn.zqbb.cocoatop64.inject.roothide
+Architecture: iphoneos-arm64e
+Version: 3.2.0
+Section: Utilities
+Maintainer: zp, SXX, Domo
+Installed-Size: 840
+Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64, zp.cocoatop64, zp.cocoatop64.unject, zp.cocoatop64.inject
+Filename: debs/cn.zqbb.cocoatop64.inject.roothide_3.2.0_iphoneos-arm64e.deb
+Size: 184280
+MD5sum: 65c9893496cc2e320311c302ca03ec9c
+SHA1: 9d6dbff4d34162f4b429de5d612adf6720fc63e0
+SHA256: 45fd83e136b379fd78378ea35415450e1f65995846bafc716895dbeeaf490340
+SHA512: 24cfa552c6ce972fd8f11540fc1b47ffec32e037db5ec72df8ffde4b62c030d6da63c5138af407246bd862ff514aa8d807a15ba1546622d990116666f14f4711
+Description: (RootHide) 白名单注入辅助器
+Name: CocoaTop64 inject (RootHide)
+Author: Domo, SXX , zp
+SileoDepiction: https://rootless.zqbb.cf/web/cn.zqbb.cocoatop64.inject.roothide
+
+Package: cn.zqbb.inject.manager
+Architecture: iphoneos-arm64e
+Version: 3.3.0-1
+Section: System
+Maintainer: zqbb
+Installed-Size: 928
+Depends: firmware (>= 15.0)
+Filename: debs/cn.zqbb.inject.manager_3.3.0-1_iphoneos-arm64e.deb
+Size: 402392
+MD5sum: 36da0a7ee1d8752f7e9f59eda7e9d266
+SHA1: 289de8a97240a4fba5aad21765f4d96d540073e9
+SHA256: d38a239d2b2e1612f47ce57bee61f67cc284f92ccc7f66b72b8ce043b54ecedc
+SHA512: 6dc19069a60c38da20bff7b193564ea9092193191428e87f07c0b5ac1e4009d655fc4b0c281461005c05f5fd0ea4d83a3d3017abcf992c7bc8f026bd421d5626
+Description: Configuare RootHide's Features
+Name: RootHide Inject Manager
+Author: zqbb, roothide
+Icon: https://apt.002599.xyz/web/icon/cn.zqbb.inject.manager
+SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.inject.manager
+
+Package: cn.zqbb.stopautolaunchapps
+Architecture: iphoneos-arm64e
+Version: 2.5
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 1120
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: debs/cn.zqbb.stopautolaunchapps_2.5_iphoneos-arm64e.deb
+Size: 254732
+MD5sum: bb9060d9152825c832ffc058e67d1b52
+SHA1: 44d0fb5fff6c020537209649e4352cf8457841c3
+SHA256: f674af6740233f5c15462f144b2b5710de5b25490235b97bc14b13e1d1377ec8
+SHA512: 6963b5f517897fbc428f8a64d3d442deb2a387aef1ced4866cd21c38385963ac06a160606981c840cb607bdd47dbc0a64f445097ff8412252da102bd5b2a4d5d
+Description: 别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台.
+Author: zqbb
+Name: Hello 3Q
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
+
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
 Version: 2.9.2
