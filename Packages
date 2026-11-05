@@ -16,6 +16,24 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.rain.120hzstable
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Rain
+Installed-Size: 484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.rain.120hzpro
+Filename: debs/RainFlow_120Hz_1.3.0_unlocked_iphoneos-arm64.deb
+Size: 69954
+MD5sum: 910949d1355f856f05ede306965f4f61
+SHA1: a9a765a8c0773fb009afed7fed8acee2c62881fe
+SHA256: fc09a802eebdd6974b75bee14bdba9ab3adcefdbe7daa6848264ba7d9eb8b2ba
+SHA512: f1c09e6dddb21ecaa1da82af8eae9b66ad74582989abc879e011d7806339e9b98363e80545e7d53a1b02540b6971ddf13f72960578115a102d4d6611b5d2c8b8
+Description: 专注核心 80Hz/120Hz 调度的精简方案；适合不需要 Pro 扩展功能、注重流畅稳定与低负担的用户。支持 iOS 15.0 及以上。
+Name: RainFlow 120Hz
+Author: Rain
+
 Package: axssb666
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -369,6 +387,22 @@ Description: 000ThemeLab 主题实验室插件
 Name: 000ThemeLab（免授权）
 Author: personal
 
+Package: com.0xkuj.speedads2k26
+Architecture: iphoneos-arm64e
+Version: 1.2.1-1
+Section: 工具
+Maintainer: TLzypjy
+Depends: com.opa334.altlist, preferenceloader, mobilesubstrate | org.coolstar.libhooker | org.coolstar.ellekit, firmware (>= 15.0)
+Filename: debs/com.0xkuj.speedads2k26_1.2.1-1_iphoneos-arm64e.deb
+Size: 65520
+MD5sum: 927d68d5c075987f5f9d4894e7c4ca61
+SHA1: f6cc85326a9a9d62515db5efe06af58850b7acef
+SHA256: 81e845c1001b6a0393cf6f9d579b739ab3c91577156b8f17275dfa0b4b34c1a6
+SHA512: 6b0e15769a1c6858a7afee6fb1ead6590625c7b1cd60525c3ce2b580f837ae2286a843560c02780c36ad63a23dfeb947a50b1d8a53ba22b5b6d101b215ee7905
+Description: 广告加速跳过插件 汉化版
+Name: SpeedAds2k26（汉化版）
+Author: 0xkuj
+
 Package: com.25mao.leftpan
 Architecture: iphoneos-arm64e
 Version: 2.0-1
@@ -545,6 +579,25 @@ Name: A狗截图套壳（免授权）
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/screenrecording.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenrecording/js.json
+
+Package: com.Axs.snapper3
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Filename: debs/com.axs.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 1273734
+MD5sum: 89a03ecc73f5f60700b7c9fdd7fe37d4
+SHA1: 8894d787688d29e65fc07f0bdf0144796c64fa9e
+SHA256: 1fa090a837b2c4d059e4e8136275bbfeaafd66d58c981e320ed7893e4ddd2d5d
+SHA512: 9ab8d1958cbb9f941be37602309dfbddc75ca584a2143d174f1a691904ee55757b2763fba73e8504a0b48ee41a5c16b5116645226a885e6ad5787910a0b60303
+Description: 将截图钉在屏幕上，此为破解版，内置透光图标。
+Name: snapper3（免授权）
+Author: Jonathan Winger-lang
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
 
 Package: com.axs.switchicon
 Architecture: iphoneos-arm64
@@ -735,6 +788,25 @@ Description: 乌贼剪贴板
 Name: CopyVault（免授权）
 Author: SquidForce, Backup
 icon: https://huayuarc.github.io/icon/CopyVault@2x.png
+
+Package: com.bvn.squidforcecrack.rl
+Architecture: iphoneos-arm64e
+Version: 1.0.1-1
+Section: 工具
+Maintainer: BVN
+Installed-Size: 328
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.bvn.squidforcecrack.rl_1.0.1-1_iphoneos-arm64e.deb
+Size: 36936
+MD5sum: 3a817babf0231da296be4d9ae76b6573
+SHA1: 553d01b3a65b53821b9088d9bf197f7445565d82
+SHA256: 6a410d9869316a2b141e5dff9d656f71f60cb221e14762bf53c1627e714c390b
+SHA512: ed0c976d4ccf2e8403ca5a69381c1592a48700e9bcc06ee7c601130d00a3b98b412de540876ee05b5741a9207a3a0efde8987f98b25a918bdf68329f2c588acf
+Description: 乌贼系列VIP解锁无弹窗（CopyVault（免授权）依赖包）
+Name: SquidForce VIP
+Author: BVN
+icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
 
 Package: com.charlieleung.liquidify.roothide
 Architecture: iphoneos-arm64e
@@ -996,6 +1068,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 
+Package: com.liquidui.liquidui180
+Architecture: iphoneos-arm64e
+Version: 1.80
+Section: 微信插件
+Maintainer: TLzypjy
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Filename: debs/com.liquidui.liquidui180_1.80_iphoneos-arm64e.deb
+Size: 16616360
+MD5sum: 3be38c9b409d0361f42471c6efd91767
+SHA1: 5e28700678b96818ad3c6ca7fa64ff3b77e7e2e3
+SHA256: 5834f00b6660f106e21c065ec559b1a81c06fd72d6cb031761a894b640777245
+SHA512: 2ab0ebbc6a9ebd5b2fa4bd96a1f781fb3f5ac400b7e6636aa213008cc3adb534734eafc0c4f200027dfba1838a4d4633084f307fe480d0e81b79083d8beb6c63
+Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。
+Name: LiquidUI（免授权）
+Author: TLzypjy
+
 Package: com.liuf.wxyj
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -1130,6 +1218,26 @@ Name: 通知管理
 Author: yzdmm2024
 Firmware: >= 14.0
 
+Package: com.nx.stheno
+Architecture: iphoneos-arm64
+Version: 0.1.23-1
+Section: 分屏插件
+Maintainer: Crassna
+Installed-Size: 2988
+Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.23-1~defaultscache1)
+Depends: dev.theos.orion (>= 1.0.0), mobilesubstrate, firmware (>= 16.0)
+Conflicts: com.h.sthenokb, com.nx.stheno.splitlastownerprobe, com.nx.stheno.splitcycleownerprobe, com.nx.stheno.renderresourceprobe, com.nx.stheno.surfaceownerprobe, com.nx.stheno.splittransitionownerprobe, com.nx.stheno.splitcontextunbindfix, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.nativereplycompetition1, com.nx.stheno.fix.nativereplydisable1, com.nx.stheno.fix
+Replaces: com.h.sthenokb, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.nativereplycompetition1, com.nx.stheno.fix.nativereplydisable1, com.nx.stheno.fix
+Filename: debs/com.nx.stheno_0.1.23-1_iphoneos-arm64.deb
+Size: 551092
+MD5sum: 7ed596f3d35ffb732ee455c276576311
+SHA1: 2bb6756f159d8eb0a365e0ad136082cf3e9f6d17
+SHA256: 9c992726b747363ecb057522dcb6de9f54bcdb0a6471f4f59ec390b59c3ed50a
+SHA512: 345ff56a999e429e366d5ee9279d4f688cfa17d7cff60a539a9353b2ff8e24da44f52779490a6e793294d747952f387017788f834996c8cd21210b066530620b
+Description: Stheno分屏正式版（关闭诊断文件日志） 下拉分屏点击全屏 只支持原生横幅通知。原插件含激活码授权验证，仅自用。
+Name: Stheno奥利奥分屏
+Author: Crassna
+
 Package: com.opa334.crane
 Architecture: iphoneos-arm64e
 Version: 1.3.18-2
@@ -1149,6 +1257,40 @@ Description: Multiple containers for your applications!
 Name: Crane
 Author: opa334
 
+Package: com.rain.dock
+Architecture: iphoneos-arm64
+Version: 3.6.2-1
+Section: Tweaks
+Maintainer: Rain
+Installed-Size: 732
+Depends: preferenceloader
+Filename: debs/com.rain.dock_3.6.2-1_iphoneos-arm64.deb
+Size: 140182
+MD5sum: a210c48270c6a8852efb1c1a174a38d8
+SHA1: cb3430d6067bd3280142ea003ad184cc42ba7db4
+SHA256: 17b35d6136e02c957788eae1f0d3746aef9da360df536d3cbd29d10159786b3b
+SHA512: f971a6b2bfff2eb0d152a9c123aad5850538e85166112d9afe9bd75df0e5b094ccc3815abd32378bfd094d371557297eb9c52170b2052befa0fe75407d073be5
+Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池条/快捷启动/手势操作/霓虹文字/矩阵雨/彩虹边框/生态缸
+Name: Rain 的 Dock（免授权）
+Author: Rain
+
+Package: com.rain.processmonitor
+Architecture: iphoneos-arm64e
+Version: 1.1.1-14+unlocked
+Section: Tweaks
+Maintainer: Rain
+Installed-Size: 1624
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.rain.processmonitor_1.1.1-14+unlocked_iphoneos-arm64e.deb
+Size: 311952
+MD5sum: 8cff2f4ab5515c1f014d29529aea7553
+SHA1: ceec9ccdbe08320f3ce02c7e4c82ef6fc04585d2
+SHA256: c35d6c607463c03c119153578bfdb336b58693e218ce531486751a33e3181f61
+SHA512: 8f77f8787a52e0c33cfc6d02d3d23a0b8d4ad6635796a8c4fb899fee13b35fa1def335510f912817b1c018dcafb73092eef7d8cc3146e44d25255976cae3ce87
+Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
+Name: Rain 的应用（免授权）
+Author: Rain
+
 Package: com.rain.raincontainer
 Architecture: iphoneos-arm64e
 Version: 2.9.0-7+debug
@@ -1165,6 +1307,26 @@ SHA256: f78e189d155c4fd1371c97689a3241c99a365681546be65b263118b63f050d2c
 SHA512: 7b0549f44397c8bc0c390939212c0acb52c1caaaef28dcd229aadb17641d994547ee8c206bd0cf3d5292b901e243c687038fe337d5d326a2d353830ebd075d30
 Description: 基于 Crane 开发，感谢作者 opa334 编译开发的优秀插件；需安装原版的 Crane 即可生效
 Name: Rain的容器
+Author: Rain
+
+Package: com.rain.rainmhz
+Architecture: iphoneos-arm64
+Version: 6.14.1-1
+Section: Tweaks
+Maintainer: Rain
+Installed-Size: 1320
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist (>= 1.0.4)
+Filename: debs/com.rain.rainmhz_6.14.1-1_iphoneos-arm64.deb
+Size: 183964
+MD5sum: 9c68928e2cab4229298e2de640cf1884
+SHA1: 0e4b192db287d928a787a19fe8fb9731877dafd3
+SHA256: 936598e512411a685da8ec0d623fdbeda410c0aa68d2ace876088e4e28ddf4e5
+SHA512: 2a692b5442975bd19c5da0074b651f58ccfe6459601d76aa9642bf04e8d0e12a86a61732d2232a6e15f1fc92994f2a5d036fc6937ad6cafda49865d8ba93b7ef
+Description: Rain的CPU性能与稳帧控制插件
+ 通过IOKit控制Apple ARM DVFS，支持低发热、均衡、极限性能、智能与稳帧模式
+ 包含动态仪表盘、分级设置、场景预设、温控、性能监控与智能后台管控
+Tag: role::hacker, purpose::extension
+Name: Rain 的 Mhz（免授权）
 Author: Rain
 
 Package: com.roothide.lockdown
@@ -1292,6 +1454,45 @@ Author: siwenjiajia
 
 Package: com.snapbackup
 Architecture: iphoneos-arm64e
+Version: 3.6.5
+Section: 工具
+Maintainer: kanuo
+Installed-Size: 812
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.snapbackup_3.6.5_iphoneos-arm64e.deb
+Size: 1100928
+MD5sum: 145bbff8491fe3dc444a95a469d73f33
+SHA1: 5bcd16b0e7113ad4de320ac5aa17f7fbff453048
+SHA256: e33edf2f4c3f1faaeacff97ef31ceb11a9af0f1aa70f4725aa6b2af2e177cb36
+SHA512: 6cc4baa740bd1c45ef20d3c047560d14df7d1efbab32097759fff7ddf7dcaa1e75a87fa5aaabb466ebd7689604b01844bea031355a805c94042e1477bb6310b7
+Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐根适配）
+ 轻量、现代 UI 的越狱备份工具，专为解决重装、重越狱、迁移插件与配置的痛点而设计。
+ .
+ 【核心功能】
+ - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
+ - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
+ - 选择性备份：可勾选要备份的插件、配置、本地 deb 与 ipa，自动标记「设置有界面」的插件
+ - 恢复配置一键完成（plist 恢复到 /var/mobile/Library/Preferences，本地执行，无需 root）
+ .
+ 【恢复难易度说明】
+ - 恢复配置：★☆☆ 简单 —— App 内一键恢复，本地执行，无需 root 权限
+ - 恢复插件：★★★ 较难 —— 需 root 权限，通过「Filza 显示」跳转 Filza，手动安装 debs/ 下的 deb（或 dpkg -i），装完注销/重启生效
+ .
+ 【操作流程】
+ ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选内容 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
+ ② 恢复配置：主页 →「恢复配置」→ 选备份包 → 自动恢复 plist（无需 root）
+ ③ 恢复插件：备份包卡片 →「Filza 显示」→ 进入 debs/ 文件夹 → 逐个点 deb 安装 → 注销/重启 SpringBoard 生效
+ .
+ RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
+ 备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
+Name: SnapBackup 备份恢复
+Author: kanuo
+dev: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/icon/snapbackup.png
+SileoDepiction: https://jimkanuo.github.io/apt-repo/depiction/com.snapbackup.json
+
+Package: com.snapbackup
+Architecture: iphoneos-arm64e
 Version: 3.8.11
 Section: Tweaks
 Maintainer: kanuo
@@ -1339,6 +1540,78 @@ Author: kanuo
 dev: kanuo
 Icon: https://jimkanuo.github.io/apt-repo/depictions/icon/snapbackup.png
 SileoDepiction: https://jimkanuo.github.io/apt-repo/depictions/com.snapbackup.json
+
+Package: com.susu.sumusicplayercc
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: 控制中心
+Maintainer: 苏苏
+Installed-Size: 628
+Depends: com.opa334.ccsupport
+Filename: debs/com.susu.sumusicplayercc_1.0.1_iphoneos-arm64.deb
+Size: 86752
+MD5sum: 139d5083cb7adb124547e4b89f64f7bf
+SHA1: 75cae2282ffc97fbd7b96deadd8f7714932e1b81
+SHA256: ba67757d51a1b7d73e30db031e9bb6e19506eaa1fb4b1770ff35583c390d6cf9
+SHA512: 8c6b6b053771cce8ce25764ffd5adb0af34e92da5128232a134ba05b96e7a03f84fe0f5e5342e01c9a52b55033a14a54d4d459c649326b8c9d4c0719721d75f3
+Description: 控制中心播放器视频背景美化
+Name: SuMusicPlayerCC
+Icon: https://www.susubaby.top/images/sumusicplayercc.png
+Author: 苏苏
+
+Package: com.susudear.screencore2
+Architecture: iphoneos-arm64
+Version: 2.0.1-1
+Section: 分屏插件
+Maintainer: SuSu
+Installed-Size: 2960
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore2_2.0.1-1_iphoneos-arm64.deb
+Size: 463472
+MD5sum: 3a60ab93acff5351cf4b5d501b605525
+SHA1: 008cb85b94ff6cc5e9cac7f21dfb089a638e4928
+SHA256: a01ee645b2aa59761d71e874f13e6f6318ca8b2903f1145b8667733294362ef6
+SHA512: 4f58889ffa96854bb9eb6b91a7a8d0551f989f0edf16a14a62c655863a0ba6afc3dab44665520005d2286d213679dbe7f265454eec73b89eb701fdc3d2c06345
+Description: ScreenCore 2.0.1 分屏插件
+Name: ScreenCore分屏2.0（wkk）
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+
+Package: com.susudear.screencore
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Section: 分屏插件
+Maintainer: SuSu
+Installed-Size: 2836
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_1.1.8_iphoneos-arm64e.deb
+Size: 440972
+MD5sum: 7a4dfacf6651b93c3d128f3dafb7dde6
+SHA1: 73f9d055e59182b305ded260340af5ccff69cbfb
+SHA256: 01333dcf8a0f11f7eca0e653e4e75e11350342e88ef080b0a1f81e929339a4bd
+SHA512: 465983b47f67aba947c0d7c680500bb3dd0686310d525bcdde18c610c39f4b61eaa848abd11ce66a755fe0ea1d08573a2821d8bd78c03145b5f8f9368af15640
+Description: ScreenCore 分屏工具（免授权）。分屏而已。
+Name: ScreenCore分屏
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+
+Package: com.susudear.screencore
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: SuSu
+Installed-Size: 2960
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_2.0.1_iphoneos-arm64.deb
+Size: 463492
+MD5sum: 5a1601d9cb2ada3527b48f09b2da0bf6
+SHA1: 9d2635d5e4cf7643a34a35509fed9bc54f6fe97a
+SHA256: 8a78b2aaf870f494630e444b432750b5362a2ab964ba4fc4e8231e4aec373a9e
+SHA512: 826f89c70e8a05b672fc0b906700c136b22d596ae9adc04c86373666c26447a630e521ea32497f80f980802d7f9fac2cc143b8d938d8a041bb981691c9069a37
+Description: 分屏而已
+Name: ScreenCore
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 
 Package: com.susudear.screencore
 Architecture: iphoneos-arm64
@@ -1624,6 +1897,24 @@ X-Drawer-70: app-landscape.native-fullscreen.restore-display.drawer-return.defer
 X-Drawer-71: mirrored-inner-corners.palette.gradient.background-alpha.icon-shadow.video-canvas.1
 X-Drawer-72: legacy-controls-retired.no-hidden-hit-targets.arc-drawer-preserved.1
 
+Package: com.tlzypjy.help
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 实用工具
+Maintainer: TL回收站
+Depends: firmware (>= 13.0)
+Filename: debs/com.tlzypjy.help_1.0.0_iphoneos-arm64.deb
+Size: 738
+MD5sum: 1b7f098fc60c79e49a43b8a3c43d37b3
+SHA1: b812f6c9784fd65a3a0fe7d4f1392be510b563d6
+SHA256: 1d084159aed4149e5454d368b643ce448f2c85ede61f78df4df9420538adf525
+SHA512: bc6564cc3f4e6fa892f4ce42ba6f44cc63d607d1426cdf77e645ccb858aa32430f63bad21d75c6522287e9b7c70ed76df5a82386bf2ad04f6b91acc2ad3b685a
+Description: TL回收站 源使用说明（空包，无任何功能）
+ 只做回收：插件问题请自行解决。
+ 源的问题请联系 QQ+1538215132。
+Name: TL回收站使用说明（必看）
+Author: TL回收站
+
 Package: com.tsangbaby.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.8
@@ -1772,6 +2063,24 @@ Name: KeyboardX（wkk）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.onestepx
+Architecture: iphoneos-arm64e
+Version: 1.1-0
+Section: 工具
+Maintainer: wkk
+Installed-Size: 516
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 17.0)
+Filename: debs/com.wkk.onestepx_1.1-0_iphoneos-arm64e.deb
+Size: 111816
+MD5sum: d16ac13e352b02bbb93e44798bff05c0
+SHA1: 3ec2ae580adcbea3c30da251620317daed8cd883
+SHA256: eebc660432e9af8a7e62ee520569387eefd1edd4ac248102449ea0ce14e3a338
+SHA512: f4f46b7baf83d4446922ace5ad8e848a0cdb485a74a334fa2f05a11710754859193f008166909945e52cb43ca1043ba9d26a9f4918df7f3f8dc97d87cb000883
+Description: 为 iPhone 操作按钮、锁屏按钮、桌面、底部与状态栏提供独立动作。
+Name: OneStepX（wkk）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.sileosourcesearch
 Architecture: iphoneos-arm64e
 Version: 1.0-2
@@ -1787,6 +2096,24 @@ SHA256: c7f553d10e98a7a52f23c2cf8d307ba0c322708d31fd2c41ef437e28102c9c2d
 SHA512: 5f362ff73bfeac215099ddfe6f31221525b21b908b18bb55f4189f9b4ef243e2a4aaf77df77902d4c4833cc40edd69df897797d9bd233ecb77e3d31b58f6a824
 Description: 为 Sileo 软件源页面增加源名称和网址模糊搜索，点击搜索结果可直接进入对应软件源；同时在软件源左滑菜单中增加置顶和取消置顶，按置顶先后顺序排列，最多可置顶 5 个软件源。
 Name: Sileo 源搜索
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.systembox
+Architecture: iphoneos-arm64
+Version: 1.4-7
+Section: 系统美化
+Maintainer: wkk
+Installed-Size: 1572
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.wkk.systembox_1.4-7_iphoneos-arm64.deb
+Size: 316342
+MD5sum: 5c4336f7239dd8596647d83ab1a3a390
+SHA1: ae5eed60b6667cc0081f298882b8dc4d8091b885
+SHA256: 6d03a689be4241fdd4e07141e5ae0120ce699a571684bfed2df457a32fddfa0d
+SHA512: 76cc8692b3f2886ab16eecfcea309aa965026bfb1637a0da8a68cf5f557ccb87e86a0ffd8c2be54fb2a2f4d420bf2e7fe70be84ee0cfc0a257eaad4f5a44a164
+Description: cool
+Name: SystemX（wkk）
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
