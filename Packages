@@ -35,6 +35,25 @@ Author: Kent Krantz
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: byg.iosios.net.mango
+Architecture: iphoneos-arm64
+Version: 1.0-Beta4-2
+Section: 分屏插件
+Maintainer: 搬运工
+Installed-Size: 3548
+Depends: mobilesubstrate
+Filename: debs/byg.iosios.net.mango_1.0-Beta4-2_iphoneos-arm64.deb
+Size: 904652
+MD5sum: dc6b62ce6af67123b6f45db3cf894052
+SHA1: 8e1d7c19d02ab3061960e78e68322b0b99cd4a0b
+SHA256: fbea8ead09d1ec02991d9ba004aa85d8c55f8ef1d5a12b73940fd0c8003aacee
+SHA512: 401c211df1cdd947e7c7c9558b1c09c9cc1263d0893449c90a4f137c21cb1d00e95daf21ceb48a3e08eef0acdfdc48750ee078b69ee64108e564b2dfdca87230
+Description: 一款非常不错的分屏插件，需要授权才能使用，但是免费功能可以液态玻璃 视频壁纸 双击锁屏 音量键锁屏等等，还是可以的，大家可以自行看看是否是自己需要的，觉得不错的可以支持一下！
+Name: 芒果分屏1.0-Beta4-2（免授权）
+Author: go
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: cn.zqbb.cocoatop64.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 3.2.0
@@ -193,6 +212,25 @@ Author: binglan
 Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/kongzhidiy/js.json
 
+Package: com.Axs.qjsy
+Architecture: iphoneos-arm64
+Version: 4.1.6
+Section: 系统美化
+Maintainer: 冰蓝
+Installed-Size: 2496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.Axs.qjsy_4.1.6_iphoneos-arm64.deb
+Size: 336980
+MD5sum: 165846e289de27614390df65340d308f
+SHA1: 016ab93d30fbc01d80acfbbe2df8f182d82f44c4
+SHA256: 7e2323b3a4a5f5ee8b3b7ffa98370a5de3d091ab9f667475ebdbfcddc758b0a5
+SHA512: 94c4b148db704f0cae962b27769b55a5e7bf48451855467f8e181952a01966ba347cebd91ec1ba1d620ec0c036363d06d0615347c9a55c0a95db0ec1afcc8392
+Description: 让简单截图，拥有更多可能。
+Name: 全局水印Pro（免授权）
+Author: 冰蓝
+Icon: https://axs66.github.io/pro/icon/screenshellpro.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
 Package: com.anthopak.appaze3
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -212,6 +250,40 @@ Description: 正版砸壳，在干净友好的用户界面中，为每个应用�
 Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3
 Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
+
+Package: com.Axs.lddgifbg
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 灵动岛
+Maintainer: liuf
+Installed-Size: 356
+Filename: debs/com.axs.lddgifbg_1.0.0_iphoneos-arm64.deb
+Size: 15872
+MD5sum: b55b7dc7d98c1c4f417b144bc46dd69b
+SHA1: b1aaf16d5b1f18d405b5a040197bac338162d4c1
+SHA256: 2e293ed6d60710885557972ef9d96943cac71cb7bf6506a92c4a5a271d433761
+SHA512: 0c5569823a21e7f00049d50f0405977160bbda3fbdd9c59c9cea7028e627a8767d27d17bd609fabda920c2b8c0872985a4b9ff900345a11a8b12c6674c030aab
+Description: 灵动岛GIF背景 i!
+Name: 灵动岛 GIF 背景
+Author: liuf
+Icon: https://axs66.github.io/repo/icon/lddgifbg.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/lddgifbg/js.json
+
+Package: com.binglan.dynamicfx
+Architecture: iphoneos-arm64
+Version: 1.0.7-1
+Section: 工具
+Maintainer: 冰蓝
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.binglan.dynamicfx_1.0.7-1_iphoneos-arm64.deb
+Size: 115730
+MD5sum: 20bd50233fcc6eedfe3861762c83f75e
+SHA1: 406b1e6ed8688c88b261f6e53384ccdc4ec600e9
+SHA256: 8dc215e594a51648111b6387793451e8fb3583c93222b5b266d793e936e2658c
+SHA512: 41eae266a9ca213f2fc08efc281d72736c7177ab4ac36d579fa5d95b301bbbca817a86ef68ef3138e1aab1f47afc90d4443bc8ee225ad7e74bd5348fd32f016f
+Description: 灵动岛背景美化插件
+Name: 灵动岛背景（免授权）
+Author: 冰蓝
 
 Package: com.binglan.dynamicfx
 Architecture: iphoneos-arm64
@@ -354,6 +426,23 @@ Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开�
 Name: TrollOpen
 Author: Charlie Leung
 
+Package: com.crctdd.stayalivelite
+Architecture: iphoneos-arm64e
+Version: 0.1.7
+Section: 工具
+Maintainer: crctdd
+Installed-Size: 300
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader
+Filename: debs/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
+Size: 65844
+MD5sum: 31b9e4ab8764f3f7c5d1d4425c5e24f8
+SHA1: 9856c32cad99eecce342bba71b4cb53c2a7b0b03
+SHA256: 7a3e44919a3083f0b15c05b2e9d1b60796468ba254eb20bc3e2e5b5ff7dac78a
+SHA512: e6700d67c7a4d4a1ed2d2aa2593de7dc3595fa2c69ba3b4c1b76496a62ef728cb302de164c6104accaf7bead71d0b28525dd9d45bce76f1547326972f7859226
+Description: 为指定App开启守护后台，将任务角色注册为Inactive(非活跃)，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Name: 后台运行
+Author: crctdd
+
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
 Version: 2.9.2
@@ -371,6 +460,42 @@ Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理�
 Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.huayuarc.picturemodule16
+Architecture: iphoneos-arm64
+Version: 1.3.2
+Section: 控制中心
+Maintainer: Huayuarc
+Installed-Size: 1868
+Depends: firmware (>= 16.0), mobilesubstrate
+Conflicts: com.4nni3.picturemodule
+Filename: debs/com.huayuarc.picturemodule16_1.3.2_iphoneos-arm64.deb
+Size: 68824
+MD5sum: 32fabccf8ebb4017e835c77a38d95c64
+SHA1: 713070f2b29e4b6adc89a16694303f399b260ea2
+SHA256: fc01a6b7817af066aae2c30339933710aabc652c715e6f82013688177ef83ab6
+SHA512: 013e0ea20a54f7117e169ec349a55bab29b85aae019859ffd307dab8937acc3010ab58684c1f231430fcdae855f0850399830fac3c2eb199134252122ca26a69
+Description: 适配 iOS 16 的原版风格图片与视频控制中心模块，内置自动互斥注册桥。
+Name: 控制中心视频模块背景
+Author: Huayuarc
+icon: https://huayuarc.github.io/icon/PictureModule.jpg
+
+Package: com.hx.120
+Architecture: iphoneos-arm64e
+Version: 2.0-1
+Section: Tweaks
+Maintainer: TLzypjy
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/com.hx.120_2.0-1_iphoneos-arm64e.deb
+Size: 7520
+MD5sum: b644dbb4ce852804508053eb8965d52e
+SHA1: 97a389a039293c8360d0141817fdb2ce6f0e6b44
+SHA256: 0f540d6c9cfd5dcb955741f9e4e8c7f4117217aaafe4af8aa8399901c03fbe90
+SHA512: c907d0f92098ea5f3d28f5c457260aef6673d71ec7ca45e11a4fdfbb91e773c92ca875cf355fca4d52e5910dbea5736c05e075d6b49b4f51bb9b9459a8d83ede
+Description: 强制满血120Hz刷新率
+Name: 满血120Hz
+Author: 半生年华
 
 Package: com.jontelang.snapper3
 Architecture: iphoneos-arm64e
@@ -390,6 +515,24 @@ SHA512: 4a08cdc5347ffaec3e5ba961eec81624390eb2f1dfd1e67541c314d7ad187c1be218fab9
 Description: Pin screenshots on the screen.
 Name: Snapper 3
 Author: Jonathan Winger-lang
+
+Package: com.layii.ccrnd
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: LaYii
+Installed-Size: 344
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/com.layii.ccrnd_0.1.0_iphoneos-arm64e.deb
+Size: 31254
+MD5sum: bba011d3b561725d098d57e276a45793
+SHA1: cf4ba1f92575137579158e72b0da7e21fc9c61f4
+SHA256: 0421be0e86e1e042b49f5988a204ae5d22328667ecb2cce5427f7ca54bd607e1
+SHA512: 8ebd505a87324d1bd1dfb7396fdb35c39c163bafc2e7da930974c6dff298726c6795fa0dc1c139495ed88670fe5cb5475e46e5430fd7d457cc0220cfe2b02581
+Description: 去除录屏延迟，并可实时配置控制中心收起行为
+Name: 去除录屏延迟
+Author: LaYii
+icon: https://huayuarc.github.io/icon/luzhi.jpg
 
 Package: com.lclrc.exacttime
 Architecture: iphoneos-arm64e
