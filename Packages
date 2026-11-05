@@ -16,44 +16,6 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
-Package: com.crctdd.memtrim
-Architecture: iphoneos-arm64
-Version: 0.0.3
-Section: Tweaks
-Maintainer: crctdd
-Installed-Size: 992
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/MemTrim-0.0.3-iphoneos-arm64.deb
-Size: 69404
-MD5sum: a3434f345f6e61ec137f7b4f28a68a1b
-SHA1: c4a27f61211da6f09597b4fec94e05c0ad6638de
-SHA256: d662888ec2903588ee7f4cbb3f4581e5ebaae3a87ce2931aedf46bb551c1136c
-SHA512: a73e3eabeac3872d69a020bb397f9933362272d12665203f3a6d462bea98d972027ed25fd41bb2a6740c369686be360f2e9b9a7a40a212f417d921a8f7324210
-Homepage: https://crctdd.github.io/repo/
-Description: 优化并释放部分运行内存。(支持iOS 15-17)
-Name: MemTrim
-Author: crctdd
-icon: https://huayuarc.github.io/icon/memtrim.png
-
-Package: com.crctdd.memtrim
-Architecture: iphoneos-arm64e
-Version: 0.0.3
-Section: Tweaks
-Maintainer: crctdd
-Installed-Size: 464
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/MemTrim-0.0.3-iphoneos-arm64e.deb
-Size: 54516
-MD5sum: 98c93b8f7480366ea2e9b4bfc334fdae
-SHA1: 6edf75e16c44e781456047b0435b5dfc2f862019
-SHA256: d5f16776c58e49cbdca0f3c4077b262be39e0ad5f6b4cb0854ac3f44f2438106
-SHA512: d45b0d8e037f2d1371866597d9818c66bd7c2c5e7c27f1a5fe04211db4c68e7d12f2a2e2bc0b0802adb8732bd7c651c2a247d2f2698b6d7716d74cccead51677
-Homepage: https://crctdd.github.io/repo/
-Description: 优化并释放部分运行内存。(支持iOS 15-17)
-Name: MemTrim
-Author: crctdd
-icon: https://huayuarc.github.io/icon/memtrim.png
-
 Package: cn.zqbb.cocoatop64.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 3.2.0
