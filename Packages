@@ -862,6 +862,118 @@ Name: SystemX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wxhbts.powercuff.roothide
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: 常用插件
+Maintainer: Ryan Petrich
+Installed-Size: 401
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff, com.dao.powercuff.ccmodule
+Replaces: com.dao.powercuff.ccmodule
+Filename: debs/com.wxhbts.powercuff.roothide_1.2_iphoneos-arm64e.deb
+Size: 30900
+MD5sum: 44221559b911121cefc6719ef896bc98
+SHA1: 8d174bfa886ff360ece57ee733147c14e4bb3d1f
+SHA256: 3a140d118f9c7e9ef96891a8a288701a2e2c9fef780ec5ad10e14f862871f4a0
+SHA512: bbcf2e273c8cc8ee71532b659388d484e56a1e5aeeb43b38fcf3a5da2ed1280929b3413f56d32cd0c19b379fd85882b745379ae0ce26200c766269275d3d122a
+Description: PowerCuff thermal throttling with integrated native five-mode Control Center module for RootHide.
+Name: PowerCuff RootHide（集成原生控制中心）
+Author: Ryan Petrich
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Depiction: https://apt.wxhbts.com/view/9555
+SileoDepiction: https://apt.wxhbts.com/sileo/9555
+
+Package: com.yechen.globalfont
+Architecture: iphoneos-arm64e
+Version: 1.1.13
+Section: Tweaks
+Maintainer: yechen
+Installed-Size: 380
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 16.0), firmware (<< 18.0), preferenceloader, mobilesubstrate | ellekit
+Filename: debs/com.yechen.globalfont_1.1.13_iphoneos-arm64e.deb
+Size: 22032
+MD5sum: 9a55b62027c701ee58a52ee101bab76a
+SHA1: 46f2e243b92fc1b9d4d08a8ced30bcc31d7769b3
+SHA256: d3c92c44984c682410d29dae6a10192b563225cb13c08a564db543365cc8597b
+SHA512: f458da28feda1bf3698a47b909f4dbc0bbb8a5990ce1fec1f0f683dde869687cb5c074205129909a59a0463ee697401334932350dfecaff31f560c719fff04d3
+Description: 仅对桌面长按菜单、锁屏播放器和锁屏通知应用 iOS 原生深浅外观。
+Tag: role::enduser, purpose::extension, cydia::requires-respring
+Name: 文字深浅切换
+Author: 夜辰
+
+Package: com.yourepo.axs.openmask
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: B-分屏插件
+Maintainer: charlie <qiaozhani000@163.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yourepo.axs.openmask_0.0.1_iphoneos-arm64e.deb
+Size: 4956
+MD5sum: 4d8cf4ceb050349447fb4b15e2d69adb
+SHA1: 1caed920eab53a11f4065d2ae982eb8b51069fa5
+SHA256: a658e3d33e85b79c5add1dde7eecb92e7ac62218f0abbffbc2a46a29929cf70d
+SHA512: 9977ed85656cafd8755e50107127ad09c5a7f7436b9ff03c2d0589d50be44e77b5271718a33d6f02eae7dce4dcd464a9928f171702ac46ab17cabb11fd991411
+Description: 将启动 fv 浮窗的接口转发给 open 越狱版。以实现某些手势的联动。
+Name: OpenMask 适配鱿鱼手势
+Author: charlie <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/trollopen.png
+
+Package: com.yourepo.axs.snapper
+Architecture: iphoneos-arm64e
+Version: 5.2.0-326
+Section: System (Axs-Tweaks)
+Maintainer: Axs <qiaozhini000@163.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.yourepo.axs.snapper_5.2.0-326_iphoneos-arm64e.deb
+Size: 175096
+MD5sum: 7d8114f65219c4a65e3546a512efcb41
+SHA1: 589e14ce1e27b3b8deb65ea965e28780a470b942
+SHA256: d854e0636d22bae9b2a155512db7cc6222741457e501c6e036e3634ab961cd91
+SHA512: ec95f2c74e0a9de9986d1a5758e943dd1b30b688f309efa3a55bafe65f26e210ee13e0f5174caf122366fa43fb7b328aba880c251a348695522f267d6dfc094e
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+Name: Snapper3 Expand
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+
+Package: com.yourepo.ok95.4
+Architecture: iphoneos-arm64e
+Version: 7.0.5
+Section: Tweaks
+Maintainer: fuck vip <kk99588077@gmail.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.yourepo.ok95.4_7.0.5_iphoneos-arm64e.deb
+Size: 352888
+MD5sum: 7569c16a030dc4eda8620c137fbcb712
+SHA1: eda1acc80e3bd233cf57655a6ac394da956cb987
+SHA256: 0f1934cbc9b57043c7d79ab7d6f214a38a21291c6f21d32139b446e73f7ad677
+SHA512: 02ab9895c95909858763b38c994a8f395fe0960dc6e2b4a74e475cdd802ea73e0aaef9db3315241423e4a0d960db92c5febf13f46600223acdd906c92521f98c
+Description: 破解软件会员合集，无需依赖，不会影响系统进程，部分失效！自己打包的合集，请勿反馈，谢谢理解。红字报错请根据日志移除相关的破解插件即可，此插件只破解软件，不会破解其它插件。
+Name: 去他妈的充值会员
+Author: fuck vip <kk99588077@gmail.com>
+
+Package: com.zengniu.splitview
+Architecture: iphoneos-arm64
+Version: 0.7.66
+Section: Tweaks
+Maintainer: ZengNiu
+Installed-Size: 1554
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Filename: debs/com.zengniu.splitview_0.7.66_iphoneos-arm64.deb
+Size: 460784
+MD5sum: 7ea55704eda85e2742a822478a39450e
+SHA1: b4903888f9b39f92288356816ae7455f8d6e4844
+SHA256: a29f7d1063fb8509e1a62e458ae8cd0c13d31f3f33530782a7f624026dda7221
+SHA512: 0738590a84dbf9b73aa3ebdb7f828edfe259d3aa92bc120e9bbaf985e8e977bf46fef6d0de0164926156cb4b1c55ab5e8fde30b1ec6a11a0c8467bfe9775cc6f
+Description: Experimental live app windows with Home Screen icon gestures and basic docking.
+Name: 曾牛-分屏🐮
+Icon: https://ys8smjzty4-dot.github.io/ZengNiupackages/depictions/com.zengniu.splitview/icon.png
+Author: ZengNiu
+
 Package: com.rein.keygen
 Architecture: iphoneos-arm64e
 Version: 1.0.6
