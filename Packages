@@ -2280,6 +2280,22 @@ Author: Tsangbaby
 Icon: https://github.com/Tsangbaby/Kayoko/blob/main/Icon/kayoko.png
 
 Package: com.wcglass.free
+Architecture: iphoneos-arm64e
+Version: 3.2.1
+Section: 微信插件
+Maintainer: personal
+Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
+Size: 19588328
+MD5sum: 8037c65543a314beb5deee65279592eb
+SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
+SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
+SHA512: 2fc84a5ede8a21af5e357ca58013add290d44fee07e3e5fa6965513ec78edcd55a21e13777795b12270a85a905f9bd78f8b5c15916443effb6dbfc10c25f1dda
+Description: WCGlass 微信液态玻璃（免授权·隐根版）。内置统一授权服务与热更新通道，仅自用。
+Name: WCGlass（免授权）
+Author: personal
+
+Package: com.wcglass.free
 Architecture: iphoneos-arm64
 Version: 3.5.8-1
 Section: 微信插件
