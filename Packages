@@ -2369,6 +2369,22 @@ Description: WCGlass 微信液态玻璃美化插件
 Name: WCGlass（免授权）
 Author: personal
 
+Package: com.wcglass.old
+Architecture: iphoneos-arm64e
+Version: 3.2.1
+Section: 微信插件
+Maintainer: personal
+Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Filename: debs/com.wcglass.old_3.2.1_iphoneos-arm64e.deb
+Size: 19588356
+MD5sum: c10db263e7249d2cf58c25a29cbda5be
+SHA1: 1b83cc79750e13978090bb2bf88731cf4f80db11
+SHA256: cddb83fa7f0fdec73ca9b19daf1a56c9de0d7ad39fc6a9e148e02c335bc85c4b
+SHA512: b1480449a0ee5e315704ccc068bd936048a55b78e2ba8c443d25c94c544847d7bd4cc93d5765d8037ee6fedb0a57f8e284231f81f6fc894b638acc054f094400
+Description: WCGlass 微信液态玻璃（免授权·隐根版）。内置统一授权服务与热更新通道，仅自用。
+Name: WCGlass旧版（免授权）（免授权）
+Author: personal
+
 Package: com.wcliquidglass.free
 Architecture: iphoneos-arm64e
 Version: 2.0.3
