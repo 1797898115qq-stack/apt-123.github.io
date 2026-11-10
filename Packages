@@ -538,6 +538,27 @@ Author: AnthoPak <anthopakdev@gmail.com>
 Name: Appaze 3
 Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
 
+Package: com.axs.ios16dao.keygen
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 工具
+Maintainer: personal
+Filename: debs/com.axs.ios16dao.keygen_1.0.0_iphoneos-arm64.deb
+Size: 5516
+MD5sum: 5311513c947c1e5934ea204ab4b6d3ae
+SHA1: 1fc704a23cddaeefd251c3afad6bd589dbeb9960
+SHA256: 6ebaabd7312c250b02543d0703d891d75ae281c7a51a6b42765a723eaf7e7912
+SHA512: 92c68a2c87d67e34a0eb498c9599ec16f20b04f0a3717906d067b67ab6382e91c5bfc59240fe1de1f7d3373aa6dd1417dfe9c2ec09f625eba3a17cf50b0df0a6
+Description: A狗动态岛（ios16dao）激活码生成器。生成 18 位激活码，纯本地计算、不联网。
+ 使用说明：
+ 1. 打开 A狗动态岛 的授权弹窗，记下 12 位十六进制设备码（如 B67E31825990）；
+ 2. 用 Filza 进入 /var/jb/Library/，打开「A狗动态岛激活码生成器.html」；
+ 3. 输入设备码，自动生成 18 位激活码，点「复制激活码」；
+ 4. 把激活码粘贴回插件弹窗，完成激活；
+ 5. 也可在电脑浏览器打开 https://tlzypjy.github.io/jb-repo/A狗动态岛激活码生成器.html 生成，效果一样。
+Name: A狗动态岛激活码生成器
+Author: personal
+
 Package: com.axs.ios16dao
 Architecture: iphoneos-arm64
 Version: 5.2.0-244
@@ -2022,6 +2043,22 @@ X-Drawer-69: remembered-edge.paired-slide.background-rgb.background-only-alpha.1
 X-Drawer-70: app-landscape.native-fullscreen.restore-display.drawer-return.deferred-cancel.1
 X-Drawer-71: mirrored-inner-corners.palette.gradient.background-alpha.icon-shadow.video-canvas.1
 X-Drawer-72: legacy-controls-retired.no-hidden-hit-targets.arc-drawer-preserved.1
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.3.6
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.tencent.themebox_2.3.6_iphoneos-arm64.deb
+Size: 7803502
+MD5sum: 1d6b22d9b9d7cf5e32a2a423546da640
+SHA1: a50a75eac74ba9cc44fa0b412fb6d2f60c0da3bb
+SHA256: 50ef2b3969ca323a540c70ab34e4bc594ba95983c4ba38bf2909228de942b489
+SHA512: c20f43fd2628bd51151c0ad5629e6dd927a9449605ce1937119fc782c38ee8dac36f3a099ac4bf1379271769dfb6e87e938d656a92489f1e774085a63bba28c9
+Description: 微信主题盒子
+Name: 主题盒子（免授权）
+Author: Mao
 
 Package: com.tlzypjy.help
 Architecture: iphoneos-arm64
