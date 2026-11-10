@@ -827,6 +827,23 @@ Name: 88液态玻璃隐根版（免授权）
 Author: 一刀
 
 Package: com.charlieleung.liquidify
+Architecture: iphoneos-arm64
+Version: 1.3.7-4+dao88.1
+Section: 系统美化
+Maintainer: 一刀
+Installed-Size: 40597
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.charlieleung.liquidify_1.3.7-4+dao88.1_iphoneos-arm64.deb
+Size: 10756068
+MD5sum: 769b8ceb9288a65ecd20cdf9f0a414d4
+SHA1: 054dbdb602497a258b83a68183151a494a8f7fda
+SHA256: 2ab474fedfcb2679e5cb462542ab1748baa9b1510a036a17a6aa801ce71838a1
+SHA512: 6262fda7c63b07613aa253d057b72e857946472f628c61ecb2e2991d7a509bdf5ef8d2e13258af947fe37cf194fe4b9a96381774b51827141a0486bbec70810f
+Description: 液态玻璃
+Name: 88液态玻璃（免授权）
+Author: 一刀
+
+Package: com.charlieleung.liquidify
 Architecture: iphoneos-arm64e
 Version: 1.3.8+repair.test3
 Section: Tweaks
