@@ -1214,6 +1214,23 @@ Description: 微信液态玻璃美化插件，已去除授权。微信界面液�
 Name: LiquidUI（免授权）
 Author: TLzypjy
 
+Package: com.liquidui.wechatglass
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: TLzypjy
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.liquidui.wechatglass_1.81_iphoneos-arm64e.deb
+Size: 24243202
+MD5sum: b7716b5e1e555ac0e0ba0e48e14d97c1
+SHA1: 84768c5f26f6f394ab53e9044f7e3214774fb4f6
+SHA256: 2ba1e1f8e49bf1eb09fa5f63203d63dbfd7d1b1c4235990f6d678d54deeade91
+SHA512: 7d61f6a2257370d8b2326ff73dd0155862b6dc74b47bbad87ddde4e5c631316ca4b5dd52ffeac1043e43d7bb7bd34097e17c2e61ac1dab424f3e014d88119fd5
+Description: 需验证刀铺会员 无会员请勿下载
+ 微信液态玻璃效果，LiquidUI+KUI 双组件注入
+Name: LiquidUI 微信液态玻璃（免授权）
+Author: TLzypjy
+
 Package: com.liuf.wxyj
 Architecture: iphoneos-arm64
 Version: 1.0
