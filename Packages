@@ -658,6 +658,66 @@ Author: Jonathan Winger-lang
 Icon: https://axs66.github.io/pro/icon/snapper.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
 
+Package: com.axs.snapper3tag
+Architecture: iphoneos-arm64e
+Version: 5.2.0-326
+Section: 工具
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1052
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.axs.snapper3tag_5.2.0-326_iphoneos-arm64e.deb
+Size: 607086
+MD5sum: d9f7044e76071e2c3ab954a112b32d4f
+SHA1: f597c6068b2d02e963b73f3acf94f09ea43b0590
+SHA256: 9efea4b6265d8bf828ca1c7ead86c62dfb8636ef2f0e8c951a6294da178863ab
+SHA512: 853b46d13dd13d7807a13e0cd9448227af1bddacbb761003e76bc49391c6d5ad985a07e3bcd643090885be51488845ce1bca8e12e99fd95cf8b049d059400d9e
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+ * 一、【自定义图标】
+ * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
+ *   标记    ：tag.png   / tag_menu.png
+ *   长截图  ：long.png  / long_menu.png
+ *   ocr识别 ：ocr.png   / ocr_menu.png
+ *   翻译    ：trans.png / trans_menu.png 
+ *   Ai互译  ：huyi.png  / huyi_menu.png
+ *   Ai回答  ：wenda.png / wenda_menu.png
+ * 二、【截图标记】
+ * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
+ * 箭头标记：手指拖拽绘制方向箭头；
+ * 自由画线：手指跟随绘制任意曲线；
+ * 文字标注：点击图片任意位置弹出输入框与键盘，输入文字落点标注，支持字号滑条实时调节；
+ * 矩形图标：点击1次是矩形框选+点击2次是矩形填充；
+ * 圆形图标：点击1次是圆形框选+点击2次是圆形填充；
+ * 高亮图标：点击1次是高亮框选+点击2次是半透明填充；
+ * 马赛克图标：网格分块打码，颗粒固定细腻；
+ * 撤回操作：一键撤销上一步标注；
+ * 删除操作：一键删除所有标注；
+ * 保存相册：渲染并写入系统相册；
+ * 复制剪贴板：一键复制标注后截图；
+ * 三、【长截图 Pro】
+ * 两种模式可选：滚动拼接/ 一键到底；
+ * 智能帧匹配，自动拼接；
+ * 支持保存到相册、复制到剪贴板；
+ * 四、【OCR识别】
+ * 使用 PaddleOCR模型识别截图文字；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备API Token。
+ * 五、【翻译】
+ * 百度翻译 API，自动检测语言双向翻译；
+ * 支持图片翻译和文本翻译两种通道；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备百度开发者信息中的 AppID 和 密钥。
+ * 六、【Ai互译+问答】
+ * 支持中英文互译和中文问答；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备阿里云 API Key。
+ * 七、【长按音量-冻结】
+ * 开启后，长按音量减键约0.2秒即可调出Snapper3冻结模式，适合无手势（不开启悬浮球/手势）的用户，用物理按键直接使用本插件全部标注功能。
+Name: Snapper3 Expand
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
+
 Package: com.axs.switchicon
 Architecture: iphoneos-arm64
 Version: 5.2.0-131
@@ -975,6 +1035,42 @@ Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开�
 Name: TrollOpen
 Author: Charlie Leung
 
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 1.5.2
+Section: Tweaks
+Maintainer: 一刀
+Installed-Size: 55444
+Depends: firmware (>= 15.0),mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.charlieleung.trollopenjb_1.5.2_iphoneos-arm64e.deb
+Size: 24317732
+MD5sum: f088c15186cfee569f9d99a60ff2698a
+SHA1: 87620fd9a4f0b5e015a2cb557a6abf12dde71c6e
+SHA256: b4e706ec64cd30d9a3caaa82726a495cc135d0d8a774fe874035a902da5ff85a
+SHA512: 71ff691f2fed9202d7821b6b1f1aa7fe476ff2ee7b864102763e72efb8f5d47a6344ca8958f969358c7cc0823d0aa6c22a040bf5ba912975b852e57275b484f3
+Description: 内置离线版，在16系统隐根状态测试正常，其他系统自测。
+ 需验证刀铺会员 无会员请勿下载
+Name: TrollOpen隐根（免授权）
+Author: 一刀
+
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 1.5.2
+Section: Tweaks
+Maintainer: 一刀
+Installed-Size: 55608
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.charlieleung.trollopenjb_rootless_1.5.2_iphoneos-arm64e.deb
+Size: 24269102
+MD5sum: f6f1c0c707649897eae3ce151b4e5e65
+SHA1: 91162133c20b77d47951821aea56b5c5bd8b3324
+SHA256: afcae623dc0a8c74631538caa9dd98dee53489d6ec3fb1c5fcd0742c6f10988c
+SHA512: f87cfb7cd36ad8354ffe95c1830e6c72d8229c0e016de03a3fbbc9f3cec520c458f32409a2a876d41cae4cac17673b147643b18a97446297900172301cdac11b
+Description: 内置离线版，在16系统隐根状态测试正常，其他系统自测。
+ 需验证刀铺会员 无会员请勿下载
+Name: TrollOpen 无根（免授权）
+Author: 一刀
+
 Package: com.crctdd.stayalivelite
 Architecture: iphoneos-arm64e
 Version: 0.1.7
@@ -1279,6 +1375,23 @@ Description: 微信美化插件
  德发素材仓 微信美化插件：支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。
 Name: 德发素材仓（免授权）
 Author: 德发
+
+Package: com.mallin.tunnelsharevpn
+Architecture: iphoneos-arm64
+Version: 1.2.6
+Section: Tweaks
+Maintainer: Mallin
+Depends: firmware (>= 15.0), mobilesubstrate | substitute | libhooker | ellekit, com.opa334.ccsupport, preferenceloader
+Filename: debs/com.mallin.tunnelsharevpn_1.2.6-1_iphoneos-arm64.deb
+Size: 170246
+MD5sum: a3aa6695d7f137887fe7bd29702fbe4e
+SHA1: b5b511352270d093c136b82fa329f3b357707172
+SHA256: 99ba4789ff482d88bce531904d54e6cc8881199eddeb02b46fa1b56e084c881e
+SHA512: 50ce57a136319b9cd9423631c77d6f3d11e02ae655b688054d2618e44544a1dd0ce3f72bc348daecc30f0f4bc9489465ae3a81ffd2eb0e0cc653ead31d8fddf2
+Description: 该插件能够实现该手机的科学上网功能直接通过热点形式分享给其他设备，在“设置-控制中心”添加快捷键，即可实现一键操作，目前测试使用Shadowrocket科学上网，只用于科研与查阅外网资料！
+Name: VPN 共享（免授权）
+Author: Mallin
+Icon: https://mallinrepo.pages.dev/depictions/tunnelsharevpn/icon.png
 
 Package: com.mlgm.actra
 Architecture: iphoneos-arm64e
