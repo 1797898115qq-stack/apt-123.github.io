@@ -863,6 +863,25 @@ Author: 一刀
 
 Package: com.charlieleung.liquidify
 Architecture: iphoneos-arm64e
+Version: 1.3.8
+Section: Tweaks
+Maintainer: 一刀
+Installed-Size: 41273
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.charlieleung.liquidify_1.3.8_iphoneos-arm64e.deb
+Size: 16794788
+MD5sum: 6653a8dcf0b92474f6306c86db8a39c6
+SHA1: 7b93dda15badc98d8e251fe0f47500d37558deec
+SHA256: 8b4af58fe844af4f83634f400659a85771eba7e46961288b00ae7d27bb5f9740
+SHA512: 672045b90ff3a94191eb4513a868547303953a9629bef1d37b96cd9461587dc34480aac2e81cc4d7911989e40035717b085331936342abe194ff94644edaae26
+Description: 需验证刀铺会员 无会员请勿下载
+ 液态玻璃
+Name: 88液态玻璃隐根版（免授权）
+Author: 一刀
+
+Package: com.charlieleung.liquidify
+Architecture: iphoneos-arm64e
 Version: 1.3.8+repair.test3
 Section: Tweaks
 Maintainer: 一刀
