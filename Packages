@@ -1198,6 +1198,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 
+Package: com.liquidui.liquidui178
+Architecture: iphoneos-arm64e
+Version: 1.78
+Section: 微信插件
+Maintainer: TLzypjy
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Filename: debs/com.liquidui.liquidui178_1.78_iphoneos-arm64e.deb
+Size: 15840596
+MD5sum: 747c2be346ceea30d65bc915691aa2d3
+SHA1: 6ac7a713236194a6e2a2e34797dbb6aa4c460633
+SHA256: 188a3bbb2b62bd0d97700b6391347532ae2920d8406d4c801e13598a55c7c1a4
+SHA512: c3087e335e6f14d14f02786b602095277edf21e0f8ae654c8be83f328fb01a924458c8ed43feaec442368be78d383268483f0794761e134b702ff2c762ad3ee5
+Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。旧版本，供降级使用。
+Name: LiquidUI（免授权）
+Author: TLzypjy
+
 Package: com.liquidui.liquidui180
 Architecture: iphoneos-arm64e
 Version: 1.80
