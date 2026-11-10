@@ -183,6 +183,25 @@ Name: 乌贼手势隐根（免授权）
 Author: 刀哥
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
 
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64
+Version: 2.7.6-2
+Section: 手势键盘
+Maintainer: SquidForce, Backup
+Installed-Size: 7347
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: debs/cn.octoforce.squidgesturepro_2.7.6-2_iphoneos-arm64.deb
+Size: 1930346
+MD5sum: 9703d9d208b4cc3b8a789d6e32cdaf20
+SHA1: ed4eeaaed72349402a289407e9879add5e938051
+SHA256: f0cd8203a86bf0b22a62ba719764cce115a65aacc42a7a02e3f9da69f0df0041
+SHA512: 9a881f746a38b89374ee80edb25c6ce1d6711bdc3a603e02b8ddc0882070875c3331cffefd887792b5a1fb65a9dbba9d5ab4491613cb90692e6b2ffe5dff822f
+Description: 内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）。
+Name: 乌贼手势无根（免授权）
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
 Package: cn.zqbb.cocoatop64.inject.roothide
 Architecture: iphoneos-arm64e
 Version: 3.2.0
