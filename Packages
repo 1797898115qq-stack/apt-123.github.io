@@ -2798,6 +2798,31 @@ Name: Ai 液态玻璃
 Author: Ai
 icon: https://huayuarc.github.io/icon/LiquidAss.png
 
+Package: dylv.sbliquidglass
+Architecture: iphoneos-arm64e
+Version: 1.8
+Section: Tweaks
+Maintainer: MoWang
+Installed-Size: 4100
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Filename: debs/dylv.sbliquidglass_1.8_iphoneos-arm64e.deb
+Size: 1489214
+MD5sum: 5b58f5bd75533bfe67f4f9aab8ed67a2
+SHA1: 9055cfd4c4047525aaa1f24b7e93e9f28d2e8781
+SHA256: 8e3f10e15a299f5fd1a2b5faf960820341f6858bc28b9119b5ebf9a60ff69c3c
+SHA512: 105127f3da496b8296fb91cf174381366506fea4854e0ad97557b0df6c0099d858412366258060ca12e7c66d4eb6319ddb9b7db7e72eccd541db4bbff84ee155
+Description: iOS 26 风格「液态玻璃」系统 UI 美化插件：分阶段渲染的液态玻璃材质，安全表层架构，全局生效。
+ 【核心功能】
+  - 系统液态玻璃：为通知中心、控制中心、Dock、状态栏等系统界面套用 iOS 26 风格透明折射玻璃材质
+  - 安全表层架构：分层渲染，降低白屏/重启风险，稳定运行
+  - 多进程注入：覆盖 Backboardd、Dock 等多个系统进程，效果全局统一
+ 【使用说明】
+  - 安装后请 Respring 一次（建议注销后观察是否稳定）
+  - 设置路径：设置 → SBLiquidGlass
+  - 本包为 RootHide（arm64e）版
+Name: 系统液态玻璃
+Author: MoWang
+
 Package: netskao.wechatpurifications
 Architecture: iphoneos-arm64e
 Version: 2026.04
