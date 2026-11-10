@@ -9,8 +9,8 @@ Description: 牛马源
 Support: https://1797898115qq-stack.github.io/apt-123.github.io/
 Icon: https://1797898115qq-stack.github.io/apt-123.github.io/CydiaIcon.png
 MD5Sum:
- c1d756992ebdea536d763ac3606bd0fd  130755 Packages
- ae13ce361f9391f70a19359f2d390778  52603 Packages.gz
+ 51115ac32efb21432563ed87654befb1  133651 Packages
+ e63a8173374c51ea0b13e6ab3b649cfc  53707 Packages.gz
 SHA256:
- 339fcfde60b03b0c7bdfe8d380dcfc19c0bf58b1564665cfba02f48c59072750  130755 Packages
- 2716aaed3a8bdec66e8ecc66f1d609b9e85377896b08af0b19990bb0f424b1b6  52603 Packages.gz
+ 6fb684d02b650b4857930398fec115f95e1455f1fb9e478ae9541ddf3027d926  133651 Packages
+ ad49585ecf86df23d611d6ccbfd61c0eeaffb099b66c18f14329bf7e21774e3c  53707 Packages.gz
